@@ -10486,8 +10486,10 @@ section#contact form#contactForm :-ms-input-placeholder {
 /* Research topic */
 
 .research-topic-name {
-
   margin-top: 1rem !important;
   margin-bottom: 1rem !important;
+}
 
+.research-img {
+  width : 5rem;
 }
