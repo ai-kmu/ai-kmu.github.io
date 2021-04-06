@@ -7713,7 +7713,7 @@ button.bg-dark:focus {
 
 .pt-4,
 .py-4 {
-  padding-top: 1.5rem !important;
+  padding-top: 1rem !important;
 }
 
 .pr-4,
@@ -7723,7 +7723,7 @@ button.bg-dark:focus {
 
 .pb-4,
 .py-4 {
-  padding-bottom: 1.5rem !important;
+  padding-bottom: 1rem !important;
 }
 
 .pl-4,
@@ -10481,4 +10481,8 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 .research-img {
   width : 9rem;
+}
+
+.research-text {
+  text-align: left;
 }
