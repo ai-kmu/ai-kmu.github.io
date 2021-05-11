@@ -224,7 +224,6 @@ th {
 
 label {
   display: inline-block;
-  margin-bottom: 0.5rem;
 }
 
 button {
@@ -10485,5 +10484,70 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 .research-text {
+  text-align: left;
+}
+
+.pub input[type=radio] {
+  display: none;
+}
+
+#tab-1:checked ~ .tab label:nth-child(1),
+#tab-2:checked ~ .tab label:nth-child(2) {
+  background-color: rgba(0, 0, 0, 0.2);
+  box-shadow: none;
+}
+
+.pub_content > div {
+  display: none;
+}
+
+#tab-1:checked ~ .pub_content div:nth-child(1),
+#tab-2:checked ~ .pub_content div:nth-child(2) {
+  display: block;
+}
+
+.pub {
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+.tab {
+  overflow: hidden;
+}
+
+.tab label {
+  font-size: 25px;
+  cursor: pointer;
+  float: left;
+  width: 50%;
+  text-align: center;
+  padding: 15px 0;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 2px;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.pub_content {
+  background-color: rgba(0, 0, 0, 0.2);
+  min-height: 250px;
+}
+
+.pub_content > div {
+  padding: 30px;
+  line-height: 1.5;
+  font-size: 17px;
+}
+
+.foreign_pub {
+  background-color: white;
+  min-height: 200px;
+  text-align: left;
+}
+
+.domestic_pub {
+  background-color: white;
+  min-height: 200px;
   text-align: left;
 }
