@@ -568,7 +568,7 @@ pre code {
 }
 @media (min-width: 1200px) {
   .container-xl, .container-lg, .container-md, .container-sm, .container {
-    max-width: 1140px;
+    max-width: 1300px;
   }
 }
 .row {
@@ -4317,6 +4317,7 @@ input[type=button].btn-block {
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
+  overflow: hidden;
 }
 .card > hr {
   margin-right: 0;
@@ -4339,6 +4340,11 @@ input[type=button].btn-block {
 .card > .card-header + .list-group,
 .card > .list-group + .card-footer {
   border-top: 0;
+}
+
+.card > img {
+  width: 300px;
+  height: 250px;
 }
 
 .card-body {
@@ -10492,7 +10498,9 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 #tab-1:checked ~ .tab label:nth-child(1),
-#tab-2:checked ~ .tab label:nth-child(2) {
+#tab-2:checked ~ .tab label:nth-child(2),
+#tab-3:checked ~ .tab label:nth-child(3),
+#tab-4:checked ~ .tab label:nth-child(4) {
   background-color: rgba(0, 0, 0, 0.2);
   box-shadow: none;
 }
@@ -10502,7 +10510,9 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 #tab-1:checked ~ .pub_content div:nth-child(1),
-#tab-2:checked ~ .pub_content div:nth-child(2) {
+#tab-2:checked ~ .pub_content div:nth-child(2),
+#tab-3:checked ~ .pub_content div:nth-child(3),
+#tab-4:checked ~ .pub_content div:nth-child(4) {
   display: block;
 }
 
@@ -10516,13 +10526,12 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 .tab label {
-  font-size: 25px;
+  font-size: 15px;
   cursor: pointer;
   float: left;
-  width: 50%;
+  width: 25%;
   text-align: center;
   padding: 15px 0;
-  text-transform: uppercase;
   font-weight: bold;
   letter-spacing: 2px;
   user-select: none;
