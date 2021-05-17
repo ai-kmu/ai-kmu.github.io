@@ -578,6 +578,10 @@ pre code {
   margin-left: -0.75rem;
 }
 
+.cm {
+  margin-bottom: 1.5rem;
+}
+
 .no-gutters {
   margin-right: 0;
   margin-left: 0;
@@ -10493,70 +10497,33 @@ section#contact form#contactForm :-ms-input-placeholder {
   text-align: left;
 }
 
-.pub input[type=radio] {
-  display: none;
-}
-
-#tab-1:checked ~ .tab label:nth-child(1),
-#tab-2:checked ~ .tab label:nth-child(2),
-#tab-3:checked ~ .tab label:nth-child(3),
-#tab-4:checked ~ .tab label:nth-child(4) {
-  background-color: rgba(0, 0, 0, 0.2);
-  box-shadow: none;
-}
-
-.pub_content > div {
-  display: none;
-}
-
-#tab-1:checked ~ .pub_content div:nth-child(1),
-#tab-2:checked ~ .pub_content div:nth-child(2),
-#tab-3:checked ~ .pub_content div:nth-child(3),
-#tab-4:checked ~ .pub_content div:nth-child(4) {
-  display: block;
-}
+/* publication */
 
 .pub {
-  margin: 0 auto;
-  max-width: 100%;
+  overflow: scroll;
+  overflow-x: hidden;
+  background-color: white;
+  padding-top: 2%;
+  height: 800px;
 }
 
-.tab {
-  overflow: hidden;
+.year {
+  text-align: left;
+  margin-left: 10%;
+  font-size: 35px;
 }
 
-.tab label {
-  font-size: 15px;
-  cursor: pointer;
-  float: left;
-  width: 25%;
-  text-align: center;
-  padding: 15px 0;
-  font-weight: bold;
-  letter-spacing: 2px;
-  user-select: none;
-  -webkit-user-select: none;
+.to{
+  text-align: left;
+  margin-left: 20%;
+  margin-right: 10%;
+  font-size: 25px;
+  font-style: italic;
 }
 
 .pub_content {
-  background-color: rgba(0, 0, 0, 0.2);
-  min-height: 250px;
-}
-
-.pub_content > div {
-  padding: 30px;
-  line-height: 1.5;
-  font-size: 17px;
-}
-
-.foreign_pub {
-  background-color: white;
-  min-height: 200px;
   text-align: left;
-}
-
-.domestic_pub {
-  background-color: white;
-  min-height: 200px;
-  text-align: left;
+  margin-left: 20%;
+  margin-right: 10%;
+  font-size: 15px;
 }
