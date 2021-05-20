@@ -10500,11 +10500,9 @@ section#contact form#contactForm :-ms-input-placeholder {
 /* publication */
 
 .pub {
-  overflow: scroll;
-  overflow-x: hidden;
   background-color: white;
   padding-top: 2%;
-  height: 800px;
+  padding-bottom: 2%;
 }
 
 .year {
