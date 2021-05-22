@@ -4346,6 +4346,11 @@ input[type=button].btn-block {
   border-top: 0;
 }
 
+.card > img {
+  width: 300px;
+  height: 270px;
+}
+
 .card-body {
   flex: 1 1 auto;
   min-height: 1px;
