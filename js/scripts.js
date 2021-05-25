@@ -53,4 +53,11 @@
     navbarCollapse();
     // Collapse the navbar when page is scrolled
     $(window).scroll(navbarCollapse);
+
+    $(".imgchange").mouseover(function() {
+        $(this).attr("src", $(this).attr("src").replace("black","color"));
+    });
+    $(".imgchange").mouseout(function() {
+        $(this).attr("src", $(this).attr("src").replace("color","black"));
+    });
 })(jQuery); // End of use strict
