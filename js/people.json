@@ -1,0 +1,195 @@
+{
+    "card" :[
+        {
+            "maintype": "professer",
+            "subcard": [
+                {
+                    "position" : "Principal Investigator",
+                    "contents" : [
+                        {
+                            "img_link": "assets/img/people/jaekoo_color.png",
+                            "name": "Jaekoo Lee, Ph.D",
+                            "rank": " Assistant Professor",
+                            "Department" : "College of Computer Science",
+                            "email" : "jaekoo@kookmin.ac.kr",
+                            "number" : "+82-2-910-4646",
+                            "fromD" : "PhD in ECE, Seoul National University, South Korea",
+                            "AdviserProfessor": " Sungroh Yoon",
+                            "formM" : "MS in ECE, UC San Diego, USA",
+                            "adviserlink" : "http://data.snu.ac.kr/",
+                            "experience1" : "Data Scientist, SK Telecom Research Center (2018)", 
+                            "experience2": "Assistant Research Engineer, LG Electronics R&D Campus (2011-2013)"
+                        }
+                    ]
+                }
+            ]            
+        },
+        {
+            "maintype": "student",
+            "subcard": [
+                {
+                    "position" : "Graduate Students",
+                    "contents" : [
+                        {
+                            "img_link" : "assets/img/people/daehee_black.png",
+                            "name" : "Daehee Kim",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "Area" : "Domain generalization"
+                                },
+                                {
+                                    "Area" : "Super-Resolution"
+                                }
+                            ],
+                            "email" : "frshield2@kookmin.ac.kr",
+                            "githublink" : "https://github.com/dnap512"
+                        },
+                        {
+                            "img_link" : "assets/img/people/inkyung_black.png",
+                            "name" : "Inkyung Kim",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "Area" : "Time series analysis"
+                                },
+                                {
+                                    "Area" : "Deep learning"
+                                }
+                            ],
+                            "email" : "kim_jenn@kookmin.ac.kr",
+                            "githublink" : "https://github.com/IKKIM00"
+                        },
+                        {
+                            "img_link" : "assets/img/people/eomjungmin_black.png",
+                            "name" : "Jungmin Eom",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "Area" : "Autonomous driving"
+                                },
+                                {
+                                    "Area" : "Deep learning"
+                                }
+                            ],
+                            "email" : "sozzso@kookmin.ac.kr",
+                            "githublink" : "https://github.com/jmin0530"
+                        },
+                        {
+                            "img_link" : "assets/img/people/myunghak_black.png",
+                            "name" : "Myunghak Lee",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "Area" : "Autonomous driving"
+                                },
+                                {
+                                    "Area" : "Graph neural network"
+                                }
+                            ],
+                            "email" : "mh9716@kookmin.ac.kr",
+                            "githublink" : "https://github.com/myunghakLee"
+                        },
+                        {
+                            "img_link" : "assets/img/people/hyejin_black.png",
+                            "name" : "Hyejin Lee",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "Area" : "Generative models"
+                                },
+                                {
+                                    "Area" : "Colorization"
+                                }
+                            ],
+                            "email" : "hub0913@kookmin.ac.kr",
+                            "githublink" : "https://github.com/Lhyejin"
+                        }
+                    ]
+                },
+                {
+                    "position" : "Undergraduate Students",
+                    "contents" : [
+                        {                
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Sungsik Kim",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "Area" : ""
+                                }
+                            ],
+                            "email" : "sskim0126@kookmin.ac.kr",
+                            "githublink" : "https://github.com/sskim0126"
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Hyunjong Lee",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "Area" : ""
+                                }
+                            ],
+                            "email" : "dlrhkswhd10@kookmin.ac.kr",
+                            "githublink" : "https://github.com/lhj-3/"
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Juwan Lim",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "Area" : ""
+                                }
+                            ],
+                            "email" : "dlacksdn352@gmail.com",
+                            "githublink" : "https://github.com/Juwan-s"
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Jungmin Ha",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "Area" : ""
+                                }
+                            ],
+                            "email" : "20173430@kookmin.ac.kr",
+                            "githublink" : "https://github.com/Ha-Jungmin"
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Seungjin Han",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "Area" : ""
+                                }
+                            ],
+                            "email" : "gkstmdwls99@kookmin.ac.kr",
+                            "githublink" : "https://github.com/LEFT-BEE"
+                        }
+                    ]
+                
+                },
+
+                {
+                    "position" : "Alumni",
+                    "contents" : [
+                        {
+
+                            "name" : "Seongsil Heo",
+                            "description_type": "current",
+                            "description":[
+                                {
+                                    "Area" : "PhD program, UC Santa Cru"
+                                }
+                            ]
+                        }
+                    ]                   
+                }
+            ]
+        }     
+    ]
+}

@@ -343,7 +343,7 @@ output {
   display: inline-block;
 }
 
-summary {
+.summary {
   display: list-item;
   cursor: pointer;
 }
@@ -9849,6 +9849,8 @@ a.text-dark:hover, a.text-dark:focus {
 
 .text-muted {
   color: #6c757d !important;
+  font-size: 12px;
+
 }
 
 .text-black-50 {
@@ -9947,7 +9949,7 @@ h3 {
   }
 
   .navbar {
-    display: none;
+    display: none; 
   }
 
   .badge {
@@ -10502,6 +10504,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 .notice-title:hover {
   color: blue;
+  cursor: pointer;
 
 }
 .notice-content {
@@ -10617,4 +10620,8 @@ body.modal-open {
 .paper-subject {
   font-size: 17px !important;
   font-weight: bolder;
+}
+
+.cursor-pointer{
+  cursor: pointer
 }
