@@ -91,7 +91,7 @@
                                 }
                             }
                             if (data_.card[i].subcard[j].contents[k].intern !== "") { // 인턴인 경우
-                                html_.push('intern@'+data_.card[i].subcard[j].contents[k].intern)
+                                html_.push('Intern@'+data_.card[i].subcard[j].contents[k].intern)
                             }
                             else if (data_.card[i].subcard[j].position === "Graduate Students") {
                                 html_.push('<br>')
