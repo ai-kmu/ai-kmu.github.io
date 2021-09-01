@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="n">
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -10,14 +10,14 @@
         <link rel="icon" href="/assets/img/imgpreview.ico">
         <!-- <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" /> -->
         <!-- Font Awesome icons (free version)-->
-        <script src="https://use.fontawesome.com/releases/v5.15.1/js/all.js" crossorigin="anonymous"></script>
+        <script src="https://use.fontawesome.com/releases/v5.15.1/js/all.js" crossOrigin="anonymous"></script>
         <!-- Google fonts-->
         <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />`                                                                                                                                                                    
         <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
-        <script type= "modual" scr="./js/paper.js"></script>
+        <script type= "modual" src="./js/paper.js"></script>
     </head>
     <body id="page-top">
         <!-- Navigation-->
@@ -152,24 +152,7 @@
                 </div>
                 <br>
                 <div id="map" style="width:100%; height: 50vh;"></div>
-                <script>
-                    function initMap() {
-                        var k_univ = { lat: 37.61102236349923 ,lng: 126.99731035581803 };
-                        var map = new google.maps.Map(
-                            document.getElementById('map'), {
-                            zoom: 15,
-                            center: k_univ
-                        });
-                        const marker = new google.maps.Marker({
-                            position: k_univ,
-                            map: map,
-                        });
-
-                        marker.addListener("click", () => {
-                            window.open("https://www.google.co.kr/maps/place/%EA%B5%AD%EB%AF%BC%EB%8C%80%ED%95%99%EA%B5%90/@37.6108736,126.9951002,17z/data=!3m1!4b1!4m5!3m4!1s0x357cbd1dddcabfef:0xde7cc0e9a47b92bc!8m2!3d37.6108694!4d126.9972889?hl=ko")
-                        })
-                    }
-                </script>
+                <script src="./js/googlemap.js"></script>
                 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBZdMIsZHXfaOk236VnepxnsLAF8LDoo4E&callback=initMap&region=kr"></script>
                 <br>
                 <p style="font-size: 1.2em; text-align:left; ">
@@ -209,63 +192,8 @@
         <!-- Third party plugin JS-->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
         <!-- Core theme JS-->
-        <script src="js/scripts.js"></script>
-
-
-        <script>
-
-
-            /* modal */
-            const modal = document.getElementById("modal")
-            const btnModal = document.getElementById("btn-modal")
-            btnModal.addEventListener("click", e => {
-                modal.style.display = "flex"
-                
-            })
-
-            /* 모달창의 클로즈(x) 버튼을 누르면 모달창이 꺼지게 하기 */
-
-            const closeBtn = modal.querySelector(".close-area")
-            closeBtn.addEventListener("click", e => {
-                modal.style.display = "none"
-            })
-
-            /* 모달창 바깥 영역을 클릭하면 모달창이 꺼지게 하기 */
-            modal.addEventListener("click", e => {
-                const evTarget = e.target
-                if(evTarget.classList.contains("modal-overlay")) {
-                    modal.style.display = "none"
-                }
-            })
-
-            window.addEventListener("keyup", e => {
-                if(modal.style.display === "flex" && e.key === "Escape") {
-                    modal.style.display = "none"
-                }
-            })
-
-            /* 모달창이 현재 스크롤 위치에 뜨도록 하기*/
-            $('#btn-modal').click(function() {
-
-                $('.ly_bg').show();
-
-                // 마우스 위치에 팝업 나오기
-                $('#modal').css({
-
-                    "top": (($(window).height() - $("#modal").outerHeight()) / 2 + $(window).scrollTop()) + "px"
-                    //팝업창을 가운데로 띄우기 위해 현재 화면의 가운데 값과 스크롤 값을 계산하여 팝업창 CSS 설정
-
-                }).show();
-
-            });
-
-            /* 모달 활성화시 스크롤 방지*/
-            $("#modal").on("show", function () {
-                $("body").addClass("modal-open");
-            }).on("hidden", function () {
-                $("body").removeClass("modal-open")
-            });
-
-        </script>
+        <script src="./js/scripts.js"></script>
+        <script src="./js/scroll.js"></script>
+        <script src='./js/modal.js'></script>
     </body>
 </html>
