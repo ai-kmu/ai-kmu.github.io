@@ -17,8 +17,8 @@
                             "ms" : "MS in ECE, UC San Diego, USA",
                             "adviser_professor": " Sungroh Yoon",
                             "adviserlink" : "http://data.snu.ac.kr/",
-                            "experience_1" : "Data Scientist, SK Telecom Research Center (2018)", 
-                            "experience_2": "Assistant Research Engineer, LG Electronics R&D Campus (2011-2013)"
+                            "experience_1" : "Data Scientist, SK Telecom Research Center", 
+                            "experience_2": "Assistant Research Engineer, LG Electronics R&D Campus"
                         }
                     ]
                 }
@@ -43,7 +43,8 @@
                                 }
                             ],
                             "email" : "frshield2@kookmin.ac.kr",
-                            "github_link" : "https://github.com/dnap512"
+                            "github_link" : "https://github.com/dnap512",
+                            "inter" : "Naver Clova OCR"
                         },
                         {
                             "img_link" : "assets/img/people/inkyung_black.png",
@@ -58,7 +59,8 @@
                                 }
                             ],
                             "email" : "kim_jenn@kookmin.ac.kr",
-                            "github_link" : "https://github.com/IKKIM00"
+                            "github_link" : "https://github.com/IKKIM00",
+                            "inter" : "Socar Mobility"
                         },
                         {
                             "img_link" : "assets/img/people/eomjungmin_black.png",
@@ -73,7 +75,8 @@
                                 }
                             ],
                             "email" : "sozzso@kookmin.ac.kr",
-                            "github_link" : "https://github.com/jmin0530"
+                            "github_link" : "https://github.com/jmin0530",
+                            "inter" : ""
                         },
                         {
                             "img_link" : "assets/img/people/myunghak_black.png",
@@ -88,7 +91,8 @@
                                 }
                             ],
                             "email" : "mh9716@kookmin.ac.kr",
-                            "github_link" : "https://github.com/myunghakLee"
+                            "github_link" : "https://github.com/myunghakLee",
+                            "inter" : ""
                         },
                         {
                             "img_link" : "assets/img/people/hyejin_black.png",
@@ -103,7 +107,8 @@
                                 }
                             ],
                             "email" : "hub0913@kookmin.ac.kr",
-                            "github_link" : "https://github.com/Lhyejin"
+                            "github_link" : "https://github.com/Lhyejin",
+                            "inter" : ""
                         }
                     ]
                 },
@@ -120,7 +125,8 @@
                                 }
                             ],
                             "email" : "sskim0126@kookmin.ac.kr",
-                            "github_link" : "https://github.com/sskim0126"
+                            "github_link" : "https://github.com/sskim0126",
+                            "inter" : ""
                         },
                         {
                             "img_link" : "assets/img/people/person.png",
@@ -132,7 +138,8 @@
                                 }
                             ],
                             "email" : "dlrhkswhd10@kookmin.ac.kr",
-                            "github_link" : "https://github.com/lhj-3/"
+                            "github_link" : "https://github.com/lhj-3/",
+                            "inter" : ""
                         },
                         {
                             "img_link" : "assets/img/people/person.png",
@@ -144,7 +151,8 @@
                                 }
                             ],
                             "email" : "dlacksdn352@gmail.com",
-                            "github_link" : "https://github.com/Juwan-s"
+                            "github_link" : "https://github.com/Juwan-s",
+                            "inter" : ""
                         },
                         {
                             "img_link" : "assets/img/people/person.png",
@@ -156,7 +164,8 @@
                                 }
                             ],
                             "email" : "20173430@kookmin.ac.kr",
-                            "github_link" : "https://github.com/Ha-Jungmin"
+                            "github_link" : "https://github.com/Ha-Jungmin",
+                            "inter" : ""
                         },
                         {
                             "img_link" : "assets/img/people/person.png",
@@ -168,7 +177,8 @@
                                 }
                             ],
                             "email" : "gkstmdwls99@kookmin.ac.kr",
-                            "github_link" : "https://github.com/LEFT-BEE"
+                            "github_link" : "https://github.com/LEFT-BEE",
+                            "inter" : ""
                         }
                     ]
                 
@@ -187,7 +197,8 @@
                                 }
                             ],
                             "email" : "",
-                            "github_link" : ""
+                            "github_link" : "",
+                            "inter" : ""
                         }
                     ]                   
                 }
