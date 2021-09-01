@@ -23,10 +23,10 @@
                         html.push('<a href="' + data[i].categories[j].papers[z].link + '">[link]</a>');
                         if (data[i].categories[j].papers[z].originalcode !== "") {
                             html.push('<a href="' + data[i].categories[j].papers[z].originalcode + '">[original code]</a>');
-                        };
+                        }
                         if (data[i].categories[j].papers[z].domainbedcode !== "") {
                             html.push('<a href="' + data[i].categories[j].papers[z].domainbedcode + '">[domainbed code]</a>');
-                        };
+                        }
                         html.push('</p>')
                         if (z < data[i].categories[j].papers.length - 1) {
                             html.push('</br>')
@@ -90,14 +90,14 @@
                                     html_.push(data_.card[i].subcard[j].contents[k].description[l].area + '<br>')
                                 }
                             }
-                            html_.push('</small>');
-                            if (data_.card[i].subcard[j].contents[k].inter !== "") { // 인턴인 경우
-                                html_.push("<strong>Inter at")
-                                html_.push('<br></strong><small>'+data_.card[i].subcard[j].contents[k].inter+'</small>')
+                            if (data_.card[i].subcard[j].contents[k].intern !== "") { // 인턴인 경우
+                                html_.push('intern@'+data_.card[i].subcard[j].contents[k].intern)
                             }
                             else if (data_.card[i].subcard[j].position === "Graduate Students") {
-                                html_.push('<br><br>')
+                                html_.push('<br>')
                             }
+                            html_.push('</small>');
+
                             html_.push('</p></div>');
                             if (data_.card[i].subcard[j].contents[k].email !== "") { // email이 필요한 경유
                                 html_.push('<div class="card-footer">');

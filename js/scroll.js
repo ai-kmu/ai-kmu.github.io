@@ -4,7 +4,7 @@
         if (
             location.pathname.replace(/^\//, "") ==
             this.pathname.replace(/^\//, "") &&
-            location.hostname == this.hostname
+            location.hostname === this.hostname
         ) {
             var target = $(this.hash);
             target = target.length ?
