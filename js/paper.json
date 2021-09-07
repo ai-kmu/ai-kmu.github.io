@@ -11,7 +11,7 @@
                     {
                         "paper": "SelfReg: Self-supervised Contrastive Regularization for Domain Generalization",
                         "name": "Daehee Kim, Seunghyun Park (Naver Clova AI), Jinkyu Kim (Korea univ.), Jaekoo Lee",
-                        "pub": "ICCV, 2021.",
+                        "pub": "International Conference on Computer Vision(ICCV), 2021.",
                         "link": "https://arxiv.org/abs/2104.09841",
                         "originalcode": "https://github.com/dnap512/SelfReg",
                         "domainbedcode": "https://github.com/facebookresearch/DomainBed"
@@ -26,7 +26,7 @@
                     {
                         "paper": "Compact feature hashing for machine learning based malware detection",
                         "name": "Damin Moon, JaeKoo Lee, MyungKeun Yoon",
-                        "pub": "ICT Express Journal, August 2021.",
+                        "pub": "Information and Communications Technology Express Journal(ICT Express Journal), August 2021.",
                         "link": "https://www.sciencedirect.com/science/article/pii/S240595952100093X?via%3Dihub",
                         "originalcode": "",
                         "domainbedcode": ""
@@ -34,7 +34,7 @@
                     {
                         "paper": "Design of Channel Estimation for Hybrid Beamforming Millimeter-Wave Systems in the Presence of Beam Squint",
                         "name": "Song Noh, Jaekoo Lee, Heejug Yu, Jiho Song",
-                        "pub": "IEEE Systems Journal, June 2021.",
+                        "pub": "IEEE Systems Journal(ISJ), June 2021.",
                         "link": "https://ieeexplore.ieee.org/document/9448490",
                         "originalcode": "",
                         "domainbedcode": ""
@@ -42,7 +42,7 @@
                     {
                         "paper": "Advanced Network Sampling with Heterogeneous Multiple Chains",
                         "name": "Jaekoo Lee, MyungKeun Yoon, Song Noh",
-                        "pub": "Sensors MDPI, March 2021.",
+                        "pub": "Sensors Multidisciplinary Digital Publishing Institute(Sensors MDPI), March 2021.",
                         "link": "https://www.mdpi.com/1424-8220/21/5/1905",
                         "originalcode": "",
                         "domainbedcode": ""
@@ -50,7 +50,7 @@
                     {
                         "paper": "Stress Detection With Single PPG Sensor by Orchestrating Multiple Denoising and Peak-Detecting Methods",
                         "name": "Seongsil Heo, Sunyoung Kwon, Jaekoo Lee",
-                        "pub": "IEEE Access, February 2021.",
+                        "pub": "Institute of Electrical and Electronics Engineers(IEEE) Access, February 2021.",
                         "link": "https://ieeexplore.ieee.org/document/9358140",
                         "originalcode": "https://github.com/ai-kmu/stress_classification_with_PPG",
                         "domainbedcode": ""
@@ -58,7 +58,7 @@
                     {
                         "paper": "Fall Detection Based on Multi-Horizon Forecasting",
                         "name": "Inkyung Kim, Daehee Kim, Sunyoung Kwon, Sheayun Lee, Jaekoo Lee",
-                        "pub": "IEEE ACCESS under review, 2021.",
+                        "pub": "Institute of Electrical and Electronics Engineers(IEEE) ACCESS under review, 2021.",
                         "link": "",
                         "originalcode": "https://github.com/IKKIM00/Fall_Detection_using_multihorizon_forecasting",
                         "domainbedcode":""
@@ -66,7 +66,7 @@
                     {
                         "paper": "Inter-Domain Curriculum Learning for Domain Generalization",
                         "name": "Daehee Kim, Youngjun Yoo, Inkyung Kim, Jaekoo Lee",
-                        "pub": "ICT Express under review",
+                        "pub": "Information and Communications Technology Express Journal(ICT Express) under review",
                         "link": "https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10548057",
                         "originalcode": "",
                         "domainbedcode": ""
@@ -74,7 +74,7 @@
                     {
                         "paper": "Enhancing Object Detection using Super-Resolution",
                         "name": "Daehee Kim, Sungmin Lee(SKT), Jaekoo Lee",
-                        "pub": "IEEE TPAMI under review",
+                        "pub": "Institute of Electrical and Electronics Engineers Transactions on Pattern Analysis and Machine Intelligence(IEEE TPAMI) under review",
                         "link": "",
                         "originalcode": "",
                         "domainbedcode": ""
