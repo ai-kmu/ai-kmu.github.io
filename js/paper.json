@@ -11,7 +11,7 @@
                     {
                         "paper": "SelfReg: Self-supervised Contrastive Regularization for Domain Generalization",
                         "name": "Daehee Kim, Seunghyun Park (Naver Clova AI), Jinkyu Kim (Korea univ.), Jaekoo Lee",
-                        "pub": "International Conference on Computer Vision(ICCV), 2021.",
+                        "pub": "International Conference on Computer Vision(ICCV), January 2021.",
                         "link": "https://arxiv.org/abs/2104.09841",
                         "originalcode": "https://github.com/dnap512/SelfReg",
                         "domainbedcode": "https://github.com/facebookresearch/DomainBed"
@@ -26,7 +26,7 @@
                     {
                         "paper": "Compact feature hashing for machine learning based malware detection",
                         "name": "Damin Moon, JaeKoo Lee, MyungKeun Yoon",
-                        "pub": "Information and Communications Technology Express Journal(ICT Express Journal), August 2021.",
+                        "pub": "Information and Communications Technology(ICT) Express Journal, August 2021.",
                         "link": "https://www.sciencedirect.com/science/article/pii/S240595952100093X?via%3Dihub",
                         "originalcode": "",
                         "domainbedcode": ""
@@ -50,7 +50,7 @@
                     {
                         "paper": "Stress Detection With Single PPG Sensor by Orchestrating Multiple Denoising and Peak-Detecting Methods",
                         "name": "Seongsil Heo, Sunyoung Kwon, Jaekoo Lee",
-                        "pub": "Institute of Electrical and Electronics Engineers(IEEE) Access, February 2021.",
+                        "pub": "IEEE Access, February 2021.",
                         "link": "https://ieeexplore.ieee.org/document/9358140",
                         "originalcode": "https://github.com/ai-kmu/stress_classification_with_PPG",
                         "domainbedcode": ""
@@ -58,7 +58,7 @@
                     {
                         "paper": "Fall Detection Based on Multi-Horizon Forecasting",
                         "name": "Inkyung Kim, Daehee Kim, Sunyoung Kwon, Sheayun Lee, Jaekoo Lee",
-                        "pub": "Institute of Electrical and Electronics Engineers(IEEE) ACCESS under review, 2021.",
+                        "pub": "IEEE ACCESS under review, 2021.",
                         "link": "",
                         "originalcode": "https://github.com/IKKIM00/Fall_Detection_using_multihorizon_forecasting",
                         "domainbedcode":""
@@ -66,15 +66,15 @@
                     {
                         "paper": "Inter-Domain Curriculum Learning for Domain Generalization",
                         "name": "Daehee Kim, Youngjun Yoo, Inkyung Kim, Jaekoo Lee",
-                        "pub": "Information and Communications Technology Express Journal(ICT Express) under review",
+                        "pub": "Information and Communications Technology(ICT) Express Journal under review",
                         "link": "https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10548057",
                         "originalcode": "",
                         "domainbedcode": ""
                     },
                     {
                         "paper": "Enhancing Object Detection using Super-Resolution",
-                        "name": "Daehee Kim, Sungmin Lee(SKT), Jaekoo Lee",
-                        "pub": "Institute of Electrical and Electronics Engineers Transactions on Pattern Analysis and Machine Intelligence(IEEE TPAMI) under review",
+                        "name": "Daehee Kim, Sungmin Lee (SKT), Jaekoo Lee",
+                        "pub": "IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI) under review",
                         "link": "",
                         "originalcode": "",
                         "domainbedcode": ""
