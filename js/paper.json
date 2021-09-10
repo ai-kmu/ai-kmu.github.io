@@ -87,6 +87,14 @@
                 "papers":
                 [
                     {
+                        "paper": "Temporal Fusion Transformers and Deep Learning Methods for Multi-horizon Time Series Forecasting",
+                        "name": "Inkyung Kim, Daehee Kim, Jaekoo Lee",
+                        "pub": "KIPS TRANSACTIONS ON SOFTWARE AND DATA ENGINEERING(KTSDE), just accepted",
+                        "link": "",
+                        "originalcode": "",
+                        "domainbedcode": ""
+                    },
+                    {
                         "paper": "지하공동탐지를 위한 시뮬레이션 생성데이터 기반 깊은 신경망학습",
                         "name": "Youngjun Yoo, Daehee Kim, Myunghak Lee, Jaekoo Lee",
                         "pub": "Korea Information Processing Society(KIPS), May 2021.",
