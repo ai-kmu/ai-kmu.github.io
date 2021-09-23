@@ -42,7 +42,7 @@
                     {
                         "paper": "Advanced Network Sampling with Heterogeneous Multiple Chains",
                         "name": "Jaekoo Lee, MyungKeun Yoon, Song Noh",
-                        "pub": "Sensors Multidisciplinary Digital Publishing Institute(Sensors MDPI), March 2021.",
+                        "pub": "Sensors Multidisciplinary Digital Publishing Institute(MDPI), March 2021.",
                         "link": "https://www.mdpi.com/1424-8220/21/5/1905",
                         "originalcode": "",
                         "domainbedcode": ""
@@ -58,7 +58,7 @@
                     {
                         "paper": "Fall Detection Based on Multi-Horizon Forecasting",
                         "name": "Inkyung Kim, Daehee Kim, Sunyoung Kwon, Sheayun Lee, Jaekoo Lee",
-                        "pub": "IEEE ACCESS under review, 2021.",
+                        "pub": "IEEE Access under review, 2021.",
                         "link": "",
                         "originalcode": "https://github.com/IKKIM00/Fall_Detection_using_multihorizon_forecasting",
                         "domainbedcode":""
