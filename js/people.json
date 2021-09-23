@@ -166,19 +166,6 @@
                             "email" : "20173430@kookmin.ac.kr",
                             "github_link" : "https://github.com/Ha-Jungmin",
                             "intern" : ""
-                        },
-                        {
-                            "img_link" : "assets/img/people/person.png",
-                            "name" : "Seungjin Han",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : ""
-                                }
-                            ],
-                            "email" : "gkstmdwls99@kookmin.ac.kr",
-                            "github_link" : "https://github.com/LEFT-BEE",
-                            "intern" : ""
                         }
                     ]
                 
