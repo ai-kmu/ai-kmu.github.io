@@ -117,6 +117,22 @@
                         "link": "https://www.koreascience.or.kr/article/JAKO202111065911193.page",
                         "originalcode": "",
                         "domainbedcode": ""
+                    },
+                    {
+                        "paper": "심층학습 기반 멀티 모달 데이터를 활용한 차량 사고 검출",
+                        "name": "Youngwan Jo, Ikhyeon Jo, Daehee Kim, Inkyung Kim, Suhyun Kim, Seungeun Kang, Jusuk Um, Jaekoo Lee",
+                        "pub": "Korea Institute Of Communication Sciences(KICS), June 2021.",
+                        "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10586827#none",
+                        "originalcode": "",
+                        "domainbedcode": ""
+                    },
+                    {
+                        "paper": "문서 데이터에서 추출한 지식기반 삼중 데이터 집합을 이용한 링크 예측 모델 학습",
+                        "name": "Myunghak Lee, Jungmin Eom, Hyejin Lee, Juhee Kang, Jungmin Ha, Seungjin Han, Jaekoo Lee",
+                        "pub": "Korea Institute Of Communication Sciences(KICS), June 2021.",
+                        "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10586828",
+                        "originalcode": "",
+                        "domainbedcode": ""
                     }
                 ]
             },
