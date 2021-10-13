@@ -117,7 +117,14 @@
                         "link": "https://www.koreascience.or.kr/article/JAKO202111065911193.page",
                         "originalcode": "",
                         "domainbedcode": ""
-                    },
+                    }
+                ]
+            },
+            {
+                "category": "Domestic",
+                "subcategory": "Conference",
+                "papers":
+                [
                     {
                         "paper": "심층학습 기반 멀티 모달 데이터를 활용한 차량 사고 검출",
                         "name": "Youngwan Jo, Ikhyeon Jo, Daehee Kim, Inkyung Kim, Suhyun Kim, Seungeun Kang, Jusuk Um, Jaekoo Lee",
@@ -133,14 +140,7 @@
                         "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10586828",
                         "originalcode": "",
                         "domainbedcode": ""
-                    }
-                ]
-            },
-            {
-                "category": "Domestic",
-                "subcategory": "Conference",
-                "papers":
-                [
+                    },
                     {
                         "paper": "Temporal Fusion Transformer 모델을 활용한 다층 수평 시계열 데이터 분석",
                         "name": "Inkyung Kim, Daehee Kim, Jaekoo Lee",
