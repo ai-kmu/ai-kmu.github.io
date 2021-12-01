@@ -65,8 +65,8 @@
                     },
                     {
                         "paper": "Inter-domain Curriculum Learning for domain generalization",
-                        "name": "Daehee Kim, Jinkyu Kim, Jaekoo Lee",
-                        "pub": "Information and Communications Technology(ICT) Express Journal under review",
+                        "name": "Daehee Kim, Jinkyu Kim (Korea univ.), Jaekoo Lee",
+                        "pub": "Information and Communications Technology(ICT) Express Journal",
                         "link": "https://www.sciencedirect.com/science/article/pii/S2405959521001648?via%3Dihub",
                         "originalcode": "https://github.com/dnap512/IDCL",
                         "domainbedcode": ""
