@@ -13,7 +13,7 @@
                         "name": "Daehee Kim, Seunghyun Park (Naver Clova AI), Jinkyu Kim (Korea univ.), Jaekoo Lee",
                         "pub": "International Conference on Computer Vision(ICCV), October 2021.",
                         "link": "https://arxiv.org/abs/2104.09841",
-                        "originalcode": "https://github.com/dnap512/SelfReg",
+                        "originalcode": "https://github.com/ai-kmu/SelfReg",
                         "domainbedcode": "https://github.com/facebookresearch/DomainBed"
                     }
                 ]
@@ -68,7 +68,7 @@
                         "name": "Daehee Kim, Jinkyu Kim (Korea univ.), Jaekoo Lee",
                         "pub": "Information and Communications Technology(ICT) Express Journal",
                         "link": "https://www.sciencedirect.com/science/article/pii/S2405959521001648?via%3Dihub",
-                        "originalcode": "https://github.com/dnap512/IDCL",
+                        "originalcode": "https://github.com/ai-kmu/IDCL?organization=ai-kmu&organization=ai-kmu",
                         "domainbedcode": ""
                     },
                     {
