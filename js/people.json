@@ -31,22 +31,6 @@
                     "position" : "Graduate Students",
                     "contents" : [
                         {
-                            "img_link" : "assets/img/people/daehee_black.png",
-                            "name" : "Daehee Kim",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : "Domain generalization"
-                                },
-                                {
-                                    "area" : "Super-Resolution"
-                                }
-                            ],
-                            "email" : "frshield2@kookmin.ac.kr",
-                            "github_link" : "https://github.com/dnap512",
-                            "intern" : "Naver Clova OCR"
-                        },
-                        {
                             "img_link" : "assets/img/people/inkyung_black.png",
                             "name" : "Inkyung Kim",
                             "description_type": "Research Areas",
@@ -181,6 +165,19 @@
                             "description":[
                                 {
                                     "area" : "PhD program, University of California, Santa Cruz"
+                                }
+                            ],
+                            "email" : "",
+                            "github_link" : "",
+                            "intern" : ""
+                        },
+                        {
+                            "name" : "Daehee Kim",
+                            "img_link" : "",
+                            "description_type": "current",
+                            "description":[
+                                {
+                                    "area" : "Naver Corp. Clova OCR"
                                 }
                             ],
                             "email" : "",
