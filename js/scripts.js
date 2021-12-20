@@ -106,9 +106,9 @@
                                 html_.push('<div class="col-lg-3 text-lg-right">');
                                 html_.push('<a class="btn btn-light btn-social mx-2" href="' + data_.card[i].subcard[j].contents[k].github_link + '">')
                                 html_.push('<span style="font-size:1.5em;"><i class="far fa-address-card"></i></span></a>');
-                                html_.push('</div></div>');
+                                html_.push('</div></div></div>');
                             }
-                            html_.push('</div></div></div>')
+                            html_.push('</div></div>')
                         }
                     }
                     html_.push('</div></div>')
