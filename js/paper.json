@@ -24,6 +24,14 @@
                 "papers":
                 [
                     {
+                        "paper": "Inter-domain Curriculum Learning for domain generalization",
+                        "name": "Daehee Kim, Jinkyu Kim (Korea univ.), Jaekoo Lee",
+                        "pub": "Information and Communications Technology(ICT) Express Journal",
+                        "link": "https://www.sciencedirect.com/science/article/pii/S2405959521001648?via%3Dihub",
+                        "originalcode": "https://github.com/ai-kmu/IDCL?organization=ai-kmu&organization=ai-kmu",
+                        "domainbedcode": ""
+                    },
+                    {
                         "paper": "Compact feature hashing for machine learning based malware detection",
                         "name": "Damin Moon, JaeKoo Lee, MyungKeun Yoon",
                         "pub": "Information and Communications Technology(ICT) Express Journal, August 2021.",
@@ -62,14 +70,6 @@
                         "link": "",
                         "originalcode": "https://github.com/ai-kmu/Fall_Detection_using_multihorizon_forecasting",
                         "domainbedcode":""
-                    },
-                    {
-                        "paper": "Inter-domain Curriculum Learning for domain generalization",
-                        "name": "Daehee Kim, Jinkyu Kim (Korea univ.), Jaekoo Lee",
-                        "pub": "Information and Communications Technology(ICT) Express Journal",
-                        "link": "https://www.sciencedirect.com/science/article/pii/S2405959521001648?via%3Dihub",
-                        "originalcode": "https://github.com/ai-kmu/IDCL?organization=ai-kmu&organization=ai-kmu",
-                        "domainbedcode": ""
                     },
                     {
                         "paper": "Enhancing Object Detection using Super-Resolution",
