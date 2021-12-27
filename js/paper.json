@@ -85,14 +85,6 @@
                         "domainbedcode": ""
                     },
                     {
-                        "paper": "Fall Detection Based on Multi-Horizon Forecasting",
-                        "name": "Inkyung Kim, Daehee Kim, Sunyoung Kwon, Sheayun Lee, Jaekoo Lee",
-                        "pub": "IEEE Access under review, 2021.",
-                        "link": "",
-                        "originalcode": "https://github.com/ai-kmu/Fall_Detection_using_multihorizon_forecasting",
-                        "domainbedcode":""
-                    },
-                    {
                         "paper": "Enhancing Object Detection using Super-Resolution",
                         "name": "Daehee Kim, Sungmin Lee (SKT), Jaekoo Lee",
                         "pub": "IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI) under review",
