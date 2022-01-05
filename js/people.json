@@ -93,6 +93,35 @@
                             "email" : "hub0913@kookmin.ac.kr",
                             "github_link" : "https://github.com/Lhyejin",
                             "intern" : "UC. Irvine"
+                        },
+                        {
+                            "img_link" : "assets/img/people/juwan_black.png",
+                            "name" : "Juwan Lim",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "area" : "Anomaly detection"
+                                },
+                                {
+                                    "area" : "Time series analysis"
+                                }
+                            ],
+                            "email" : "dlacksdn352@gmail.com",
+                            "github_link" : "https://github.com/Juwan-s",
+                            "intern" : ""
+                        },
+                        {
+                            "img_link" : "assets/img/people/hajungmin_black.png",
+                            "name" : "Jungmin Ha",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "area" : "Object detection"
+                                }
+                            ],
+                            "email" : "20173430@kookmin.ac.kr",
+                            "github_link" : "https://github.com/Ha-Jungmin",
+                            "intern" : ""
                         }
                     ]
                 },
@@ -123,32 +152,6 @@
                             ],
                             "email" : "dlrhkswhd10@kookmin.ac.kr",
                             "github_link" : "https://github.com/lhj-3/",
-                            "intern" : ""
-                        },
-                        {
-                            "img_link" : "assets/img/people/person.png",
-                            "name" : "Juwan Lim",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : ""
-                                }
-                            ],
-                            "email" : "dlacksdn352@gmail.com",
-                            "github_link" : "https://github.com/Juwan-s",
-                            "intern" : ""
-                        },
-                        {
-                            "img_link" : "assets/img/people/person.png",
-                            "name" : "Jungmin Ha",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : ""
-                                }
-                            ],
-                            "email" : "20173430@kookmin.ac.kr",
-                            "github_link" : "https://github.com/Ha-Jungmin",
                             "intern" : ""
                         }
                     ]
