@@ -41,7 +41,7 @@
                         "paper": "SelfReg: Self-supervised Contrastive Regularization for Domain Generalization",
                         "name": "Daehee Kim, Seunghyun Park (Naver Clova AI), Jinkyu Kim (Korea univ.), Jaekoo Lee",
                         "pub": "International Conference on Computer Vision(ICCV), October 2021.",
-                        "link": "https://arxiv.org/abs/2104.09841",
+                        "link": "https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_SelfReg_Self-Supervised_Contrastive_Regularization_for_Domain_Generalization_ICCV_2021_paper.pdf",
                         "originalcode": "https://github.com/ai-kmu/SelfReg",
                         "domainbedcode": "https://github.com/facebookresearch/DomainBed"
                     }
