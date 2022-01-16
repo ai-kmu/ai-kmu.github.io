@@ -20,7 +20,9 @@
                         html.push('<span class="paper-subject">' + data[i].categories[j].papers[z].paper + '</span><br>');
                         html.push(data[i].categories[j].papers[z].name);
                         html.push(', ' + data[i].categories[j].papers[z].pub + '<br>');
-                        html.push('<a href="' + data[i].categories[j].papers[z].link + '">[link]</a>');
+                        if (data[i].categories[j].papers[z].link !== "") {
+                            html.push('<a href="' + data[i].categories[j].papers[z].link + '">[link]</a>');
+                        }
                         if (data[i].categories[j].papers[z].originalcode !== "") {
                             html.push('<a href="' + data[i].categories[j].papers[z].originalcode + '">[original code]</a>');
                         }
