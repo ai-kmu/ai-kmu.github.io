@@ -257,6 +257,58 @@
                             "email" : "tjdbs7002@kookmin.ac.kr",
                             "github_link" : "https://github.com/sy00n",
                             "intern" : ""
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Jongchan Park",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "area" : ""
+                                }
+                            ],
+                            "email" : "daisophila@gmail.com",
+                            "github_link" : "https://github.com/daisophila",
+                            "intern" : ""
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Byunghyun Lee",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "area" : ""
+                                }
+                            ],
+                            "email" : "bh848@kookmin.ac.kr",
+                            "github_link" : "https://github.com/soyaCat",
+                            "intern" : ""
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Hyunjee Lee",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "area" : ""
+                                }
+                            ],
+                            "email" : "lhg991222@kookmin.ac.kr",
+                            "github_link" : "https://github.com/hyunji12",
+                            "intern" : ""
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Wooseong Cho",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "area" : ""
+                                }
+                            ],
+                            "email" : "chowoos@kookmin.ac.kr",
+                            "github_link" : "https://github.com/chowoos",
+                            "intern" : ""
                         }
                     ]
                 
