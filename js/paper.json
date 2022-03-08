@@ -25,6 +25,21 @@
                         "domainbedcode": ""
                     }
                 ]
+            },
+            {
+                "category": "Domestic",
+                "subcategory": "Journal",
+                "papers":
+                [
+                    {
+                        "paper": "Temporal Fusion Transformers and Deep Learning Methods for Multi-horizon Time Series Forecasting",
+                        "name": "Inkyung Kim, Daehee Kim, Jaekoo Lee",
+                        "pub": "KIPS Transactions on Software and Data Engineering(KTSDE)",
+                        "link": "http://ktsde.kips.or.kr/digital-library/25327",
+                        "originalcode": "",
+                        "domainbedcode":""
+                    }
+                ]
             }
         ]
     },
