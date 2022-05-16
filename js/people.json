@@ -309,6 +309,32 @@
                             "email" : "chowoos@kookmin.ac.kr",
                             "github_link" : "https://github.com/chowoos",
                             "intern" : ""
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Euihyun Yoon",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "area" : ""
+                                }
+                            ],
+                            "email" : "dbsdmlgus50@gmail.com",
+                            "github_link" : "https://github.com/dbsdmlgus50",
+                            "intern" : ""
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Youngjun Lee",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "area" : ""
+                                }
+                            ],
+                            "email" : "younghe42286@gmail.com",
+                            "github_link" : "https://github.com/YJJonatanLee",
+                            "intern" : ""
                         }
                     ]
                 
