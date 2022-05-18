@@ -11,9 +11,25 @@
                     {
                         "paper": "Fall Detection using Biometric Information Based on Multi-Horizon Forecasting",
                         "name": "Inkyung Kim, Daehee Kim, Sunyoung Kwon, Sheayun Lee, Jaekoo Lee",
-                        "pub": " International Conference of Pattern Recognition(ICPR), August 2022.",
+                        "pub": "International Conference of Pattern Recognition(ICPR), August 2022.",
                         "link": "https://www.icpr2022.com/",
                         "originalcode": "https://github.com/ai-kmu/Fall_Detection_using_multihorizon_forecasting",
+                        "domainbedcode":""
+                    },
+                    {
+                        "paper": "BIMO: Bootstrap Inter-Intra Modality at Once Unsupervised Learning for Time Series",
+                        "name": "Seongsil Heo, Jaekoo Lee",
+                        "pub": "ACM International Conference on Information and Knowledge Management(CIKM), 2022. under review.",
+                        "link": "",
+                        "originalcode": "",
+                        "domainbedcode":""
+                    },
+                    {
+                        "paper": "Temporal Fusion Time-Series Contrastive Learning for Human Activity Recognition",
+                        "name": "Inkyung Kim, Juwan Lee, Jaekoo Lee",
+                        "pub": "ACM International Conference on Information and Knowledge Management(CIKM), 2022. under review.",
+                        "link": "",
+                        "originalcode": "",
                         "domainbedcode":""
                     }
                 ]
