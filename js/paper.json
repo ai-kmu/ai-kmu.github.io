@@ -9,10 +9,10 @@
                 "papers":
                 [
                     {
-                        "paper": "Fall Detection Based on Multi-Horizon Forecasting",
+                        "paper": "Fall Detection using Biometric Information Based on Multi-Horizon Forecasting",
                         "name": "Inkyung Kim, Daehee Kim, Sunyoung Kwon, Sheayun Lee, Jaekoo Lee",
                         "pub": " International Conference of Pattern Recognition(ICPR), August 2022.",
-                        "link": "",
+                        "link": "https://www.icpr2022.com/",
                         "originalcode": "https://github.com/ai-kmu/Fall_Detection_using_multihorizon_forecasting",
                         "domainbedcode":""
                     }
