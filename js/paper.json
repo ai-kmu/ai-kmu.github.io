@@ -5,17 +5,24 @@
         [
             {
                 "category": "International",
-                "subcategory": "Journal",
+                "subcategory": "Conference",
                 "papers":
                 [
                     {
                         "paper": "Fall Detection Based on Multi-Horizon Forecasting",
                         "name": "Inkyung Kim, Daehee Kim, Sunyoung Kwon, Sheayun Lee, Jaekoo Lee",
-                        "pub": "Journal of Biomedical and Health Informatics, 2022. under review",
+                        "pub": " International Conference of Pattern Recognition(ICPR), August 2022.",
                         "link": "",
                         "originalcode": "https://github.com/ai-kmu/Fall_Detection_using_multihorizon_forecasting",
                         "domainbedcode":""
-                    },
+                    }
+                ]
+            },
+            {
+                "category": "International",
+                "subcategory": "Journal",
+                "papers":
+                [
                     {
                         "paper": "Enhancing Object Detection using Super-Resolution",
                         "name": "Daehee Kim, Sungmin Lee (SKT), Jaekoo Lee",
