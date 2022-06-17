@@ -145,7 +145,10 @@
                             "description_type": "Research Areas",
                             "description":[
                                 {
-                                    "area" : ""
+                                    "area" : "Graph"
+                                },
+                                {
+                                    "area" : "Domain adaption / generalization"
                                 }
                             ],
                             "email" : "chowoos@kookmin.ac.kr",
