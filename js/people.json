@@ -122,6 +122,83 @@
                             "email" : "20173430@kookmin.ac.kr",
                             "github_link" : "https://github.com/Ha-Jungmin",
                             "intern" : ""
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Hyunjong Lee",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "area" : "Lane detection"
+                                },
+                                {
+                                    "area" : "Instance segmentation"
+                                }
+                            ],
+                            "email" : "dlrhkswhd10@kookmin.ac.kr",
+                            "github_link" : "https://github.com/lhj-3/",
+                            "intern" : ""
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Wooseong Cho",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "area" : ""
+                                }
+                            ],
+                            "email" : "chowoos@kookmin.ac.kr",
+                            "github_link" : "https://github.com/chowoos",
+                            "intern" : ""
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Euihyun Yoon",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "area" : "Object detection"
+                                },
+                                {
+                                    "area": "Self-supervised object detection"
+                                }
+                            ],
+                            "email" : "dbsdmlgus50@gmail.com",
+                            "github_link" : "https://github.com/dbsdmlgus50",
+                            "intern" : ""
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Jaeseok Lee",
+                            "description_type": "Research Areas",
+                            "description": [
+                                {
+                                    "area" : "View synthesis"
+                                },
+                                {
+                                    "area" : "Generative models"
+                                }
+                            ],
+                            "email" : "se0glabo@gmail.com",
+                            "github_link" : "https://github.com/Seooooooogi",
+                            "intern" : ""
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Sangho Son",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "area" : "Differential privacy"
+                                },
+                                {
+                                    "area" : "Time series analysis"
+                                }
+                            ],
+                            "email" : "Ohgnasnos@gmail.com",
+                            "github_link" : "https://github.com/SangHo-Son",
+                            "intern" : ""
                         }
                     ]
                 },
@@ -141,19 +218,7 @@
                             "github_link" : "https://github.com/sskim0126",
                             "intern" : ""
                         },
-                        {
-                            "img_link" : "assets/img/people/person.png",
-                            "name" : "Hyunjong Lee",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : ""
-                                }
-                            ],
-                            "email" : "dlrhkswhd10@kookmin.ac.kr",
-                            "github_link" : "https://github.com/lhj-3/",
-                            "intern" : ""
-                        },
+
                         {
                             "img_link" : "assets/img/people/person.png",
                             "name" : "Minjun Kang",
@@ -165,19 +230,6 @@
                             ],
                             "email" : "k012302@kookmin.ac.kr",
                             "github_link" : "https://github.com/Kang4882",
-                            "intern" : ""
-                        },
-                        {
-                            "img_link" : "assets/img/people/person.png",
-                            "name" : "Minsik Kim",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : ""
-                                }
-                            ],
-                            "email" : "gby-1349@kookmin.ac.kr",
-                            "github_link" : "https://github.com/minsik1349",
                             "intern" : ""
                         },
                         {
@@ -221,71 +273,6 @@
                         },
                         {
                             "img_link" : "assets/img/people/person.png",
-                            "name" : "Sangwon Lee",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : ""
-                                }
-                            ],
-                            "email" : "sang9804@kookmin.ac.kr",
-                            "github_link" : "https://github.com/tkddnjs98",
-                            "intern" : ""
-                        },
-                        {
-                            "img_link" : "assets/img/people/person.png",
-                            "name" : "Jongsoo Lim",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : ""
-                                }
-                            ],
-                            "email" : "whdtn4177@naver.com",
-                            "github_link" : "https://github.com/jongssoo",
-                            "intern" : ""
-                        },
-                        {
-                            "img_link" : "assets/img/people/person.png",
-                            "name" : "Seoyoon Jang",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : ""
-                                }
-                            ],
-                            "email" : "tjdbs7002@kookmin.ac.kr",
-                            "github_link" : "https://github.com/sy00n",
-                            "intern" : ""
-                        },
-                        {
-                            "img_link" : "assets/img/people/person.png",
-                            "name" : "Jongchan Park",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : ""
-                                }
-                            ],
-                            "email" : "daisophila@gmail.com",
-                            "github_link" : "https://github.com/daisophila",
-                            "intern" : ""
-                        },
-                        {
-                            "img_link" : "assets/img/people/person.png",
-                            "name" : "Byunghyun Lee",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : ""
-                                }
-                            ],
-                            "email" : "bh848@kookmin.ac.kr",
-                            "github_link" : "https://github.com/soyaCat",
-                            "intern" : ""
-                        },
-                        {
-                            "img_link" : "assets/img/people/person.png",
                             "name" : "Hyunjee Lee",
                             "description_type": "Research Areas",
                             "description":[
@@ -295,32 +282,6 @@
                             ],
                             "email" : "lhg991222@kookmin.ac.kr",
                             "github_link" : "https://github.com/hyunji12",
-                            "intern" : ""
-                        },
-                        {
-                            "img_link" : "assets/img/people/person.png",
-                            "name" : "Wooseong Cho",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : ""
-                                }
-                            ],
-                            "email" : "chowoos@kookmin.ac.kr",
-                            "github_link" : "https://github.com/chowoos",
-                            "intern" : ""
-                        },
-                        {
-                            "img_link" : "assets/img/people/person.png",
-                            "name" : "Euihyun Yoon",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : ""
-                                }
-                            ],
-                            "email" : "dbsdmlgus50@gmail.com",
-                            "github_link" : "https://github.com/dbsdmlgus50",
                             "intern" : ""
                         },
                         {
