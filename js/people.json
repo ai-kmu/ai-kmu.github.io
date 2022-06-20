@@ -117,6 +117,9 @@
                             "description":[
                                 {
                                     "area" : "Object detection"
+                                },
+                                {
+                                    "area" : "Transformer"
                                 }
                             ],
                             "email" : "20173430@kookmin.ac.kr",
@@ -129,10 +132,10 @@
                             "description_type": "Research Areas",
                             "description":[
                                 {
-                                    "area" : "Lane detection"
+                                    "area" : "Autonomous driving"
                                 },
                                 {
-                                    "area" : "Instance segmentation"
+                                    "area" : "Vision segmentation"
                                 }
                             ],
                             "email" : "dlrhkswhd10@kookmin.ac.kr",
@@ -145,10 +148,10 @@
                             "description_type": "Research Areas",
                             "description":[
                                 {
-                                    "area" : "Graph"
+                                    "area" : "Graph neural network"
                                 },
                                 {
-                                    "area" : "Domain adaptation / generalization"
+                                    "area" : "Domain adaptation/generalization"
                                 }
                             ],
                             "email" : "chowoos@kookmin.ac.kr",
@@ -164,7 +167,7 @@
                                     "area" : "Object detection"
                                 },
                                 {
-                                    "area": "Self-supervised object detection"
+                                    "area": "Self-supervised learning"
                                 }
                             ],
                             "email" : "dbsdmlgus50@gmail.com",
