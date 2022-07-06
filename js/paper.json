@@ -9,6 +9,14 @@
                 "papers":
                 [
                     {
+                        "paper": "Bridging the Domain Gap towards Generalization in Automatic Colorization",
+                        "name": "Hyejin Lee, Daehee Kim, Daeun Lee, Jinkyu Kim, Jaekoo Lee",
+                        "pub": "European Conference on Computer Vision(ECCV), 2022",
+                        "link": "https://eccv2022.ecva.net/",
+                        "originalcode": "https://github.com/ai-kmu/DG-Colorization",
+                        "domainbedcode":""
+                    },
+                    {
                         "paper": "Fall Detection using Biometric Information Based on Multi-Horizon Forecasting",
                         "name": "Inkyung Kim, Daehee Kim, Sunyoung Kwon, Sheayun Lee, Jaekoo Lee",
                         "pub": "International Conference of Pattern Recognition(ICPR), August 2022.",
