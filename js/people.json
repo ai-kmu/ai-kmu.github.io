@@ -328,6 +328,19 @@
                             "email" : "chlwodnd0809@gmail.com",
                             "github_link" : "https://github.com/justinday123",
                             "intern" : ""
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Yousong Shin",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "area" : ""
+                                }
+                            ],
+                            "email" : "onlyforresttime@gmail.com",
+                            "github_link" : "https://github.com/shinyousong",
+                            "intern" : ""
                         }
                     ]
                 
