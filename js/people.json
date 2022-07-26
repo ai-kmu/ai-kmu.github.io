@@ -170,7 +170,7 @@
                                     "area": "Self-supervised learning"
                                 }
                             ],
-                            "email" : "dbsdmlgus50@gmail.com",
+                            "email" : "dbsdmlgus50@kookmin.ac.kr",
                             "github_link" : "https://github.com/dbsdmlgus50",
                             "intern" : ""
                         },
@@ -186,7 +186,7 @@
                                     "area" : "Generative models"
                                 }
                             ],
-                            "email" : "se0glabo@gmail.com",
+                            "email" : "seog1abo@kookmin.ac.kr",
                             "github_link" : "https://github.com/Seooooooogi",
                             "intern" : ""
                         },
@@ -301,6 +301,32 @@
                             ],
                             "email" : "younghe42286@gmail.com",
                             "github_link" : "https://github.com/YJJonatanLee",
+                            "intern" : ""
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Hyunae Cho",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "area" : ""
+                                }
+                            ],
+                            "email" : "chcho0819@kookmin.ac.kr",
+                            "github_link" : "https://github.com/hacho08",
+                            "intern" : ""
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Jaewoong Choi",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "area" : ""
+                                }
+                            ],
+                            "email" : "chlwodnd0809@gmail.com",
+                            "github_link" : "https://github.com/justinday123",
                             "intern" : ""
                         }
                     ]
