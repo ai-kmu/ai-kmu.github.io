@@ -71,6 +71,69 @@
                         "domainbedcode":""
                     }
                 ]
+            },
+            {
+                "category": "Domestic",
+                "subcategory": "Conference",
+                "papers":
+                [
+                    {
+                        "paper": "2D 이벤트 기반 데이터를 위한 합성곱 스파이킹 신경망의 근사 미분 함수 비교",
+                        "name": "Hyejin Lee, Jaekoo Lee",
+                        "pub": "Korea Institute Of Communication Sciences(KICS), June 2022.",
+                        "link": "",
+                        "originalcode": "",
+                        "domainbedcode":""
+                    },
+                    {
+                        "paper": "지역성 정보 추가에 따른 낮은 귀납적 편향을 가진 MLPMixer의 분류 성능 비교",
+                        "name": "Jungmin Eom, Jungmin Ha, Jaekoo Lee",
+                        "pub": "Korea Institute Of Communication Sciences(KICS), June 2022.",
+                        "link": "",
+                        "originalcode": "",
+                        "domainbedcode":""
+                    },
+                    {
+                        "paper": "슈퍼픽셀 기반 사진 압축 최적화를 통한 GNN의 성능 개선",
+                        "name": "Wooseong Cho, Jaekoo Lee",
+                        "pub": "Korea Institute Of Communication Sciences(KICS), June 2022.",
+                        "link": "",
+                        "originalcode": "",
+                        "domainbedcode":""
+                    },
+                    {
+                        "paper": "DETR과 Yolo-v3를 사용한 해양 침적 쓰레기 탐지 성능 비교",
+                        "name": "Euihyun Yoon, Hyejin Lee, Jaekoo Lee",
+                        "pub": "Korea Institute Of Communication Sciences(KICS), June 2022.",
+                        "link": "",
+                        "originalcode": "",
+                        "domainbedcode":""
+                    },
+                    {
+                        "paper": "합성곱 신경망과 트랜스포머를 활용한 차선 및 도로 인식 성능 비교",
+                        "name": "Hyunjong Lee, InKyung Kim, Sungsik Kim, Jaekoo Lee",
+                        "pub": "Korea Institute Of Communication Sciences(KICS), June 2022.",
+                        "link": "",
+                        "originalcode": "",
+                        "domainbedcode":""
+                    },
+                    {
+                        "paper": "자기지도 학습 기반의 센서 착용자의 인체 정보을 활용한 인간 행동 인식",
+                        "name": "Inkyung Kim, Juwan Lim, Minsik Kim, Jaekoo Lee",
+                        "pub": "Korea Institute Of Communication Sciences(KICS), June 2022.",
+                        "link": "",
+                        "originalcode": "",
+                        "domainbedcode":""
+                    },
+                    {
+                        "paper": "자율 주행을 위한 객체 탐지에서 시뮬레이션과 실제 환경 데이터 집합 간의 도메인 격차 검증",
+                        "name": "Sungsik Kim, Inkyung Kim, Hyunjong Lee, Jaekoo Lee",
+                        "pub": "Korea Institute Of Communication Sciences(KICS), June 2022.",
+                        "link": "",
+                        "originalcode": "",
+                        "domainbedcode":""
+                    }
+                ]
             }
         ]
     },
