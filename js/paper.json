@@ -48,6 +48,14 @@
                 "papers":
                 [
                     {
+                        "paper": "Deep learning-based direction finding in the presence of direction-dependent mutual coupling",
+                        "name": "Kyungsik Seo, Jaekoo Lee, Song Noh",
+                        "pub": "Information and Communications Technology(ICT) Express Journal, September 2022.",
+                        "link": "",
+                        "originalcode": "",
+                        "domainbedcode": ""
+                    },
+                    {
                         "paper": "Enhancing Object Detection using Super-Resolution",
                         "name": "Daehee Kim, Sungmin Lee (SKT), Jaekoo Lee",
                         "pub": "IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI) under review",
