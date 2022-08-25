@@ -89,7 +89,7 @@
                         "paper": "2D 이벤트 기반 데이터를 위한 합성곱 스파이킹 신경망의 근사 미분 함수 비교",
                         "name": "Hyejin Lee, Jaekoo Lee",
                         "pub": "Korea Institute Of Communication Sciences(KICS), June 2022.",
-                        "link": "",
+                        "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11108311",
                         "originalcode": "",
                         "domainbedcode":""
                     },
@@ -105,7 +105,7 @@
                         "paper": "슈퍼픽셀 기반 사진 압축 최적화를 통한 GNN의 성능 개선",
                         "name": "Wooseong Cho, Jaekoo Lee",
                         "pub": "Korea Institute Of Communication Sciences(KICS), June 2022.",
-                        "link": "",
+                        "link": "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11108335",
                         "originalcode": "",
                         "domainbedcode":""
                     },
@@ -129,13 +129,21 @@
                         "paper": "자기지도 학습 기반의 센서 착용자의 인체 정보을 활용한 인간 행동 인식",
                         "name": "Inkyung Kim, Juwan Lim, Minsik Kim, Jaekoo Lee",
                         "pub": "Korea Institute Of Communication Sciences(KICS), June 2022.",
-                        "link": "",
+                        "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11108320",
                         "originalcode": "",
                         "domainbedcode":""
                     },
                     {
                         "paper": "자율 주행을 위한 객체 탐지에서 시뮬레이션과 실제 환경 데이터 집합 간의 도메인 격차 검증",
                         "name": "Sungsik Kim, Inkyung Kim, Hyunjong Lee, Jaekoo Lee",
+                        "pub": "Korea Institute Of Communication Sciences(KICS), June 2022.",
+                        "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11108321",
+                        "originalcode": "",
+                        "domainbedcode":""
+                    },
+                    {
+                        "paper": "자율주행 객체 탐지 과업에서 객체 쿼리 최적화를 이용한 DETR 성능 개선",
+                        "name": "Jungmin Ha, Jaekoo Lee",
                         "pub": "Korea Institute Of Communication Sciences(KICS), June 2022.",
                         "link": "",
                         "originalcode": "",
@@ -330,6 +338,14 @@
                     {
                         "paper": "[BEST PAPER] 지식 기반 삼중 데이터베이스를 활용한 메시지 전달신경망의 관계 예측 성능 분석",
                         "name": "Juhee Kang, Daehee Kim, Jaekoo Lee",
+                        "pub": "IEMEK Symposium on Embedded Technology(ISET), May 2021.",
+                        "link": "http://iemek.org/UploadData/Editor/Conference/202106/BF5C26A3A9FD4275BF476B4E44ACC894.pdf",
+                        "originalcode": "",
+                        "domainbedcode": ""
+                    },
+                    {
+                        "paper": "깊은 신경망 기반 자동 채색화 모델의 경량화",
+                        "name": "Hyejin Lee, Daehee Kim, Jaekoo Lee",
                         "pub": "IEMEK Symposium on Embedded Technology(ISET), May 2021.",
                         "link": "http://iemek.org/UploadData/Editor/Conference/202106/BF5C26A3A9FD4275BF476B4E44ACC894.pdf",
                         "originalcode": "",
