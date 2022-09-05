@@ -31,22 +31,6 @@
                     "position" : "Graduate Students",
                     "contents" : [
                         {
-                            "img_link" : "assets/img/people/inkyung_black.png",
-                            "name" : "Inkyung Kim",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : "Time series analysis"
-                                },
-                                {
-                                    "area" : "Deep learning"
-                                }
-                            ],
-                            "email" : "kim_jenn@kookmin.ac.kr",
-                            "github_link" : "https://github.com/IKKIM00",
-                            "intern" : ""
-                        },
-                        {
                             "img_link" : "assets/img/people/eomjungmin_black.png",
                             "name" : "Jungmin Eom",
                             "description_type": "Research Areas",
@@ -188,22 +172,6 @@
                             ],
                             "email" : "seog1abo@kookmin.ac.kr",
                             "github_link" : "https://github.com/Seooooooogi",
-                            "intern" : ""
-                        },
-                        {
-                            "img_link" : "assets/img/people/sangho_black.jpg",
-                            "name" : "Sangho Son",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : "Differential privacy"
-                                },
-                                {
-                                    "area" : "Time series analysis"
-                                }
-                            ],
-                            "email" : "Ohgnasnos@gmail.com",
-                            "github_link" : "https://github.com/SangHo-Son",
                             "intern" : ""
                         }
                     ]
@@ -369,6 +337,19 @@
                             "description":[
                                 {
                                     "area" : "Naver Clova"
+                                }
+                            ],
+                            "email" : "",
+                            "github_link" : "",
+                            "intern" : ""
+                        },
+                        {
+                            "img_link" : "",
+                            "name" : "Inkyung Kim",
+                            "description_type": "current",
+                            "description":[
+                                {
+                                    "area" : ""
                                 }
                             ],
                             "email" : "",
