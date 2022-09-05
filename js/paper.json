@@ -148,6 +148,14 @@
                         "link": "",
                         "originalcode": "",
                         "domainbedcode":""
+                    },
+                    {
+                        "paper": "1 차원 합성곱 기반 오토인코더를 통한 다변량 시계열 비교사학습 이상 탐지 성능 개선",
+                        "name": "Juwan Lim, Minjun Kang, Inkyung Kim, Jaekoo Lee",
+                        "pub": "Korea Institute Of Communication Sciences(KICS), June 2022.",
+                        "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11108323",
+                        "originalcode": "",
+                        "domainbedcode":""
                     }
                 ]
             }
