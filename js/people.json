@@ -208,19 +208,6 @@
                         },
                         {
                             "img_link" : "assets/img/people/person.png",
-                            "name" : "Joohye Kim",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : ""
-                                }
-                            ],
-                            "email" : "love990513@kookmin.ac.kr",
-                            "github_link" : "https://github.com/JooHyeKim",
-                            "intern" : ""
-                        },
-                        {
-                            "img_link" : "assets/img/people/person.png",
                             "name" : "Junghyeon Seo",
                             "description_type": "Research Areas",
                             "description":[
