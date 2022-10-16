@@ -121,7 +121,7 @@
                         "paper": "합성곱 신경망과 트랜스포머를 활용한 차선 및 도로 인식 성능 비교",
                         "name": "Hyunjong Lee, InKyung Kim, Sungsik Kim, Jaekoo Lee",
                         "pub": "Korea Institute Of Communication Sciences(KICS), June 2022.",
-                        "link": "",
+                        "link": "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11108332&googleIPSandBox=false&mark=0&useDate=&ipRange=false&accessgl=Y&language=ko_KR&hasTopBanner=true",
                         "originalcode": "",
                         "domainbedcode":""
                     },
@@ -154,6 +154,14 @@
                         "name": "Juwan Lim, Minjun Kang, Inkyung Kim, Jaekoo Lee",
                         "pub": "Korea Institute Of Communication Sciences(KICS), June 2022.",
                         "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11108323",
+                        "originalcode": "",
+                        "domainbedcode":""
+                    },
+                    {
+                        "paper": "링크 예측 과업에서의 지식 증류를 이용한 소프트 레이블의 효과",
+                        "name": "Myunghak Lee, Jaekoo Lee",
+                        "pub": "Korea Institute Of Communication Sciences(KICS), June 2022.",
+                        "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11108316",
                         "originalcode": "",
                         "domainbedcode":""
                     }
@@ -284,6 +292,22 @@
                         "name": "Hyejin Lee, Jaekoo Lee",
                         "pub": "Korea Institute Of Communication Sciences(KICS), November 2021.",
                         "link": "",
+                        "originalcode": "",
+                        "domainbedcode": ""
+                    },
+                    {
+                        "paper": "BERT, LSTM과 GRU를 사용한 네트워크 이상 탐지 성능 비교",
+                        "name": "Juwan Lim, Inkyung Kim, Myunghak Lee, Jungmin Ha, Jaekoo Lee",
+                        "pub": "Korea Institute Of Communication Sciences(KICS), November 2021.",
+                        "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11047980",
+                        "originalcode": "",
+                        "domainbedcode": ""
+                    },
+                    {
+                        "paper": "합성곱 신경망과 비전 트랜스포머를 활용한 포트홀과 맨홀 감지 성능 비교",
+                        "name": "Jungmin Ha, Inkyung Kim, Juwan Lim, Jaekoo Lee",
+                        "pub": "Korea Institute Of Communication Sciences(KICS), November 2021.",
+                        "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11048131",
                         "originalcode": "",
                         "domainbedcode": ""
                     },
