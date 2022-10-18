@@ -12,7 +12,7 @@
                         "paper": "Bridging the Domain Gap towards Generalization in Automatic Colorization",
                         "name": "Hyejin Lee, Daehee Kim, Daeun Lee, Jinkyu Kim, Jaekoo Lee",
                         "pub": "European Conference on Computer Vision(ECCV), 2022",
-                        "link": "https://eccv2022.ecva.net/",
+                        "link": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136770530.pdf",
                         "originalcode": "https://github.com/ai-kmu/DG-Colorization",
                         "domainbedcode":""
                     },
