@@ -94,10 +94,10 @@
                         "domainbedcode":""
                     },
                     {
-                        "paper": "지역성 정보 추가에 따른 낮은 귀납적 편향을 가진 MLPMixer의 분류 성능 비교",
+                        "paper": "지역성 정보 추가에 따른 낮은 귀납적 편향을 가진 MLP-Mixer의 분류 성능 비교",
                         "name": "Jungmin Eom, Jungmin Ha, Jaekoo Lee",
                         "pub": "Korea Institute Of Communication Sciences(KICS), June 2022.",
-                        "link": "",
+                        "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11108330",
                         "originalcode": "",
                         "domainbedcode":""
                     },
@@ -145,7 +145,7 @@
                         "paper": "자율주행 객체 탐지 과업에서 객체 쿼리 최적화를 이용한 DETR 성능 개선",
                         "name": "Jungmin Ha, Jaekoo Lee",
                         "pub": "Korea Institute Of Communication Sciences(KICS), June 2022.",
-                        "link": "",
+                        "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11107888",
                         "originalcode": "",
                         "domainbedcode":""
                     },
@@ -275,7 +275,7 @@
                         "paper": "지식 그래프 완성을 위한 링크 예측 과업에서 객체 타입이 성능에 미치는 영향",
                         "name": "Myunghak Lee, Jaekoo Lee",
                         "pub": "Korea Institute Of Communication Sciences(KICS), November 2021.",
-                        "link": "",
+                        "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11022644",
                         "originalcode": "",
                         "domainbedcode": ""
                     },
@@ -283,7 +283,7 @@
                         "paper": "순차적인 과업 학습에서 MLP Mixer 의 치명적 망각 현상",
                         "name": "Jungmin Eom, Jaekoo Lee",
                         "pub": "Korea Institute Of Communication Sciences(KICS), November 2021.",
-                        "link": "",
+                        "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE110226433",
                         "originalcode": "",
                         "domainbedcode": ""
                     },
@@ -291,7 +291,7 @@
                         "paper": "자동 채색화 과업의 성능 향상을 위한 적대적 생성 신경망의 손실함수 연구",
                         "name": "Hyejin Lee, Jaekoo Lee",
                         "pub": "Korea Institute Of Communication Sciences(KICS), November 2021.",
-                        "link": "",
+                        "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11022641",
                         "originalcode": "",
                         "domainbedcode": ""
                     },
