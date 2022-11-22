@@ -247,19 +247,6 @@
                         },
                         {
                             "img_link" : "assets/img/people/person.png",
-                            "name" : "Youngjun Lee",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : ""
-                                }
-                            ],
-                            "email" : "younghe42286@gmail.com",
-                            "github_link" : "https://github.com/YJJonatanLee",
-                            "intern" : ""
-                        },
-                        {
-                            "img_link" : "assets/img/people/person.png",
                             "name" : "Hyunae Cho",
                             "description_type": "Research Areas",
                             "description":[
@@ -295,19 +282,6 @@
                             ],
                             "email" : "onlyforresttime@gmail.com",
                             "github_link" : "https://github.com/shinyousong",
-                            "intern" : ""
-                        },
-                        {
-                            "img_link" : "assets/img/people/person.png",
-                            "name" : "Jongyoon Shin",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : ""
-                                }
-                            ],
-                            "email" : "jjongyn@gmail.com",
-                            "github_link" : "https://github.com/JJongyn",
                             "intern" : ""
                         }
                     ]
