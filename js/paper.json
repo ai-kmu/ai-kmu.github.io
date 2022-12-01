@@ -164,6 +164,14 @@
                         "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11108316",
                         "originalcode": "",
                         "domainbedcode":""
+                    },
+                    {
+                        "paper": "Temporal Fusion Transformers 방법을 사용한 사고 탐지",
+                        "name": "Inkyung Kim, Suhyun Kim, Seungeun Kang, Jaekoo Lee",
+                        "pub": "Korea Institute Of Communication Sciences(KICS), February 2022.",
+                        "link": "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11048145",
+                        "originalcode": "",
+                        "domainbedcode": ""
                     }
                 ]
             }
