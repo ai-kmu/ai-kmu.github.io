@@ -157,25 +157,29 @@
                             "email" : "seog1abo@kookmin.ac.kr",
                             "github_link" : "https://github.com/Seooooooogi",
                             "intern" : ""
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Sungsik Kim",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "area" : "Autonomous driving"
+                                },
+                                {
+                                    "area" : "Graph neural network"
+                                }
+                            ],
+                            "email" : "sskim0126@kookmin.ac.kr",
+                            "github_link" : "https://github.com/sskim0126",
+                            "intern" : ""
                         }
                     ]
                 },
                 {
                     "position" : "Undergraduate Students",
                     "contents" : [
-                        {                
-                            "img_link" : "assets/img/people/person.png",
-                            "name" : "Sungsik Kim",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : ""
-                                }
-                            ],
-                            "email" : "sskim0126@kookmin.ac.kr",
-                            "github_link" : "https://github.com/sskim0126",
-                            "intern" : ""
-                        },
+
 
                         {
                             "img_link" : "assets/img/people/person.png",
