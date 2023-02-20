@@ -401,10 +401,13 @@
                             "name" : "Hyejin Lee",
                             "description_type": "current",
                             "description":[
+                                {
+                                    "area" : "Naver Webtoon"
+                                }
                             ],
                             "email" : "",
                             "github_link" : "",
-                            "intern" : "Naver Webtoon"
+                            "intern" : ""
                         }
                     ]                   
                 }
