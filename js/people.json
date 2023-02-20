@@ -63,22 +63,6 @@
                             "intern" : "UC. Irvine"
                         },
                         {
-                            "img_link" : "assets/img/people/hyejin_black.png",
-                            "name" : "Hyejin Lee",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : "Generative models"
-                                },
-                                {
-                                    "area" : "Colorization"
-                                }
-                            ],
-                            "email" : "hub0913@kookmin.ac.kr",
-                            "github_link" : "https://github.com/Lhyejin",
-                            "intern" : "UC. Irvine"
-                        },
-                        {
                             "img_link" : "assets/img/people/juwan_black.png",
                             "name" : "Juwan Lim",
                             "description_type": "Research Areas",
@@ -407,6 +391,16 @@
                             "email" : "",
                             "github_link" : "",
                             "intern" : ""
+                        },
+                        {
+                            "img_link" : "",
+                            "name" : "Hyejin Lee",
+                            "description_type": "current",
+                            "description":[
+                            ],
+                            "email" : "",
+                            "github_link" : "",
+                            "intern" : "Naver Webtoon"
                         }
                     ]                   
                 }
