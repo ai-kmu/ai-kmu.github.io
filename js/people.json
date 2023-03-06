@@ -313,19 +313,6 @@
                         },
                         {
                             "img_link" : "assets/img/people/person.png",
-                            "name" : "Kijung Lee",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : ""
-                                }
-                            ],
-                            "email" : "rlwjd4177@kookmin.ac.kr",
-                            "github_link" : "https://github.com/kkIIun",
-                            "intern" : ""
-                        },
-                        {
-                            "img_link" : "assets/img/people/person.png",
                             "name" : "Jaewon Lee",
                             "description_type": "Research Areas",
                             "description":[
@@ -335,19 +322,6 @@
                             ],
                             "email" : "ljwljy51@kookmin.ac.kr",
                             "github_link" : "https://github.com/ljwljy51",
-                            "intern" : ""
-                        },
-                        {
-                            "img_link" : "assets/img/people/person.png",
-                            "name" : "Jeongwon Choi",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : ""
-                                }
-                            ],
-                            "email" : "20163068@kookmin.ac.kr",
-                            "github_link" : "https://github.com/bongbong0713",
                             "intern" : ""
                         }
                     ]
