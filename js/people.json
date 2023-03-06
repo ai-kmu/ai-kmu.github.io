@@ -323,6 +323,45 @@
                             "email" : "ljwljy51@kookmin.ac.kr",
                             "github_link" : "https://github.com/ljwljy51",
                             "intern" : ""
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Chaewon Shin",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "area" : ""
+                                }
+                            ],
+                            "email" : "mirageciel@kookmin.ac.kr",
+                            "github_link" : "https://github.com/mirageciel",
+                            "intern" : ""
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Seyoung Choi",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "area" : ""
+                                }
+                            ],
+                            "email" : "sese502@kookmin.ac.kr",
+                            "github_link" : "https://github.com/sese502",
+                            "intern" : ""
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Yoonji Ha",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "area" : ""
+                                }
+                            ],
+                            "email" : "wnzk99@kookmin.ac.kr",
+                            "github_link" : "https://github.com/Hayoonji",
+                            "intern" : ""
                         }
                     ]
                 
