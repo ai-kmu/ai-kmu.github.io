@@ -160,6 +160,19 @@
                         },
                         {
                             "img_link" : "assets/img/people/person.png",
+                            "name" : "Minjun Kang",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "area" : "Privacy Preserving"
+                                }
+                            ],
+                            "email" : "k012302@kookmin.ac.kr",
+                            "github_link" : "https://github.com/Kang4882",
+                            "intern" : ""
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
                             "name" : "Sungsik Kim",
                             "description_type": "Research Areas",
                             "description":[
@@ -173,27 +186,44 @@
                             "email" : "sskim0126@kookmin.ac.kr",
                             "github_link" : "https://github.com/sskim0126",
                             "intern" : ""
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Seungheon Song",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "area" : "Domain Generalization"
+                                },
+                                {
+                                    "area" : "Multimodal Learning"
+                                }
+                            ],
+                            "email" : "song1248@kookmin.ac.kr",
+                            "github_link" : "https://github.com/song1248",
+                            "intern" : ""
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Jaewoong Choi",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "area" : "Generative Models"
+                                },
+                                {
+                                    "area" : "Style Transfer"
+                                } 
+                            ],
+                            "email" : "chlwodnd0809@gmail.com",
+                            "github_link" : "https://github.com/justinday123",
+                            "intern" : ""
                         }
                     ]
                 },
                 {
                     "position" : "Undergraduate Students",
                     "contents" : [
-
-
-                        {
-                            "img_link" : "assets/img/people/person.png",
-                            "name" : "Minjun Kang",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : ""
-                                }
-                            ],
-                            "email" : "k012302@kookmin.ac.kr",
-                            "github_link" : "https://github.com/Kang4882",
-                            "intern" : ""
-                        },
                         {
                             "img_link" : "assets/img/people/person.png",
                             "name" : "Junghyeon Seo",
@@ -209,19 +239,6 @@
                         },
                         {
                             "img_link" : "assets/img/people/person.png",
-                            "name" : "Seungheon Song",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : ""
-                                }
-                            ],
-                            "email" : "song1248@kookmin.ac.kr",
-                            "github_link" : "https://github.com/song1248",
-                            "intern" : ""
-                        },
-                        {
-                            "img_link" : "assets/img/people/person.png",
                             "name" : "Hyunae Cho",
                             "description_type": "Research Areas",
                             "description":[
@@ -231,19 +248,6 @@
                             ],
                             "email" : "chcho0819@kookmin.ac.kr",
                             "github_link" : "https://github.com/hacho08",
-                            "intern" : ""
-                        },
-                        {
-                            "img_link" : "assets/img/people/person.png",
-                            "name" : "Jaewoong Choi",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : ""
-                                }
-                            ],
-                            "email" : "chlwodnd0809@gmail.com",
-                            "github_link" : "https://github.com/justinday123",
                             "intern" : ""
                         },
                         {

@@ -1,4 +1,48 @@
-[    
+[  {
+    "year": "2023",
+    "categories":
+    [
+        {
+            "category": "International",
+            "subcategory": "Conference",
+            "papers":
+            [
+
+            ]
+        },
+        {
+            "category": "International",
+            "subcategory": "Journal",
+            "papers":
+            [
+
+            ]
+        },
+        {
+            "category": "Domestic",
+            "subcategory": "Journal",
+            "papers":
+            [
+                {
+                    "paper": "다변량 시계열 이상 탐지 과업에서 비지도 학습 모델의 성능 비교",
+                    "name": "Juwan Lim, Jaekoo Lee",
+                    "pub": " Journal of The Korea Institute of Information Security and Cryptology",
+                    "link": "https://public.thinkonweb.com/journals/jkiisc/digital-library/38367",
+                    "originalcode": "",
+                    "domainbedcode":""
+                }
+            ]
+        },
+        {
+            "category": "Domestic",
+            "subcategory": "Conference",
+            "papers":
+            [
+                
+            ]
+        }
+    ]
+}, 
     {
         "year": "2022",
         "categories":
@@ -69,7 +113,15 @@
                 "category": "Domestic",
                 "subcategory": "Journal",
                 "papers":
-                [
+                [   
+                    {
+                        "paper": "객체 탐지 과업에서의 트랜스포머 기반 모델의 특장점 분석 연구",
+                        "name": "Jungmin Ha, Hyunjong Lee, Jungmin Eom, Jaekoo Lee",
+                        "pub": "IEMEK Journal of Embedded Systems and Applications",
+                        "link": "http://journal.iemek.org/upfile/contents_html/j2012021/data/170600.pdf",
+                        "originalcode": "",
+                        "domainbedcode":""
+                    },
                     {
                         "paper": "Temporal Fusion Transformers와 심층 학습 방법을 사용한 다층 수평 시계열 데이터 분석",
                         "name": "Inkyung Kim, Daehee Kim, Jaekoo Lee",
