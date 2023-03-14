@@ -52,7 +52,8 @@
                         html_.push('<h2 class="section-heading text-uppercase">People</h2>');
                         html_.push('<br><h3 class="section-subheading text-muted">' + data_.card[i].subcard[j].position + '</h3></div><hr>');
                         html_.push('<div class="card mb-3" style="max-width: 100%;"><div class="row g-0">');
-                    } else if (data_.card[i].maintype === "student") { // 학생
+                    } 
+                    else if (data_.card[i].maintype === "student") { // 학생
                         html_.push('<br><h3 class="section-subheading text-muted">' + data_.card[i].subcard[j].position + '</h3></div><hr>');
                         html_.push('<div class="row">');
                     }
