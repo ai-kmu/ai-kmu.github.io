@@ -36,10 +36,10 @@
                             "description_type": "Research Areas",
                             "description":[
                                 {
-                                    "area" : "Autonomous driving"
+                                    "area" : "Autonomous Driving"
                                 },
                                 {
-                                    "area" : "Continual learning"
+                                    "area" : "Continual Learning"
                                 }
                             ],
                             "email" : "sozzso@kookmin.ac.kr",
@@ -52,10 +52,10 @@
                             "description_type": "Research Areas",
                             "description":[
                                 {
-                                    "area" : "Autonomous driving"
+                                    "area" : "Autonomous Driving"
                                 },
                                 {
-                                    "area" : "Graph neural network"
+                                    "area" : "Graph Neural Network"
                                 }
                             ],
                             "email" : "mh9716@kookmin.ac.kr",
@@ -68,10 +68,10 @@
                             "description_type": "Research Areas",
                             "description":[
                                 {
-                                    "area" : "Anomaly detection"
+                                    "area" : "Anomaly Detection"
                                 },
                                 {
-                                    "area" : "Time series analysis"
+                                    "area" : "Time Series Analysis"
                                 }
                             ],
                             "email" : "dlacksdn2@kookmin.ac.kr",
@@ -84,7 +84,7 @@
                             "description_type": "Research Areas",
                             "description":[
                                 {
-                                    "area" : "Object detection"
+                                    "area" : "Object Detection"
                                 },
                                 {
                                     "area" : "Transformer"
@@ -100,10 +100,10 @@
                             "description_type": "Research Areas",
                             "description":[
                                 {
-                                    "area" : "Autonomous driving"
+                                    "area" : "Autonomous Driving"
                                 },
                                 {
-                                    "area" : "Vision segmentation"
+                                    "area" : "Vision Segmentation"
                                 }
                             ],
                             "email" : "dlrhkswhd10@kookmin.ac.kr",
@@ -116,10 +116,10 @@
                             "description_type": "Research Areas",
                             "description":[
                                 {
-                                    "area" : "Graph neural network"
+                                    "area" : "Graph Node Importance Estimation"
                                 },
                                 {
-                                    "area" : "Domain adaptation/generalization"
+                                    "area" : "eXplainable AI on Graph"
                                 }
                             ],
                             "email" : "chowoos@kookmin.ac.kr",
@@ -132,10 +132,10 @@
                             "description_type": "Research Areas",
                             "description":[
                                 {
-                                    "area" : "Object detection"
+                                    "area" : "Object Detection"
                                 },
                                 {
-                                    "area": "Self-supervised learning"
+                                    "area": "Self-Supervised Learning"
                                 }
                             ],
                             "email" : "dbsdmlgus50@kookmin.ac.kr",
@@ -148,10 +148,10 @@
                             "description_type": "Research Areas",
                             "description": [
                                 {
-                                    "area" : "View synthesis"
+                                    "area" : "View Synthesis"
                                 },
                                 {
-                                    "area" : "Generative models"
+                                    "area" : "Generative Models"
                                 }
                             ],
                             "email" : "seog1abo@kookmin.ac.kr",
@@ -177,10 +177,10 @@
                             "description_type": "Research Areas",
                             "description":[
                                 {
-                                    "area" : "Autonomous driving"
+                                    "area" : "Autonomous Driving"
                                 },
                                 {
-                                    "area" : "Graph neural network"
+                                    "area" : "Graph Neural Network"
                                 }
                             ],
                             "email" : "sskim0126@kookmin.ac.kr",
@@ -365,6 +365,19 @@
                             ],
                             "email" : "wnzk99@kookmin.ac.kr",
                             "github_link" : "https://github.com/Hayoonji",
+                            "intern" : ""
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Seonghyun Kim",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "area" : ""
+                                }
+                            ],
+                            "email" : "archun39@kookmin.ac.kr",
+                            "github_link" : "https://github.com/archun39",
                             "intern" : ""
                         }
                     ]
