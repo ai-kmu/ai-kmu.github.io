@@ -36,7 +36,7 @@
                             "description_type": "Research Areas",
                             "description":[
                                 {
-                                    "area" : "Autonomous Driving"
+                                    "area" : "Computer Vision"
                                 },
                                 {
                                     "area" : "Continual Learning"
@@ -52,10 +52,10 @@
                             "description_type": "Research Areas",
                             "description":[
                                 {
-                                    "area" : "Autonomous Driving"
+                                    "area" : "Knowledge Distillation"
                                 },
                                 {
-                                    "area" : "Graph Neural Network"
+                                    "area" : "Trajectory prediction"
                                 }
                             ],
                             "email" : "mh9716@kookmin.ac.kr",
@@ -68,10 +68,10 @@
                             "description_type": "Research Areas",
                             "description":[
                                 {
-                                    "area" : "Anomaly Detection"
+                                    "area" : "Time Series Analysis"
                                 },
                                 {
-                                    "area" : "Time Series Analysis"
+                                    "area" : "eXplainable AI"
                                 }
                             ],
                             "email" : "dlacksdn2@kookmin.ac.kr",
@@ -84,10 +84,10 @@
                             "description_type": "Research Areas",
                             "description":[
                                 {
-                                    "area" : "Object Detection"
+                                    "area" : "Computer Vision"
                                 },
                                 {
-                                    "area" : "Transformer"
+                                    "area" : "Vision Transformer"
                                 }
                             ],
                             "email" : "20173430@kookmin.ac.kr",
@@ -100,10 +100,10 @@
                             "description_type": "Research Areas",
                             "description":[
                                 {
-                                    "area" : "Autonomous Driving"
+                                    "area" : "Vision Transformer"
                                 },
                                 {
-                                    "area" : "Vision Segmentation"
+                                    "area" : "Deep Learning for Embedded System"
                                 }
                             ],
                             "email" : "dlrhkswhd10@kookmin.ac.kr",
@@ -116,10 +116,10 @@
                             "description_type": "Research Areas",
                             "description":[
                                 {
-                                    "area" : "Graph Node Importance Estimation"
+                                    "area" : "Graph Neural Networks"
                                 },
                                 {
-                                    "area" : "eXplainable AI on Graph"
+                                    "area" : "eXplainable AI"
                                 }
                             ],
                             "email" : "chowoos@kookmin.ac.kr",
@@ -132,10 +132,10 @@
                             "description_type": "Research Areas",
                             "description":[
                                 {
-                                    "area" : "Object Detection"
+                                    "area" : "Self-Supervised Learning"
                                 },
                                 {
-                                    "area": "Self-Supervised Learning"
+                                    "area": "Object Detection"
                                 }
                             ],
                             "email" : "dbsdmlgus50@kookmin.ac.kr",
@@ -148,10 +148,10 @@
                             "description_type": "Research Areas",
                             "description": [
                                 {
-                                    "area" : "View Synthesis"
+                                    "area" : "Generative Models"
                                 },
                                 {
-                                    "area" : "Generative Models"
+                                    "area" : "3D Vision"
                                 }
                             ],
                             "email" : "seog1abo@kookmin.ac.kr",
@@ -165,6 +165,9 @@
                             "description":[
                                 {
                                     "area" : "Privacy Preserving"
+                                },
+                                {
+                                    "area" : "Deep Learning for Tabular Data"
                                 }
                             ],
                             "email" : "k012302@kookmin.ac.kr",
@@ -180,7 +183,7 @@
                                     "area" : "Autonomous Driving"
                                 },
                                 {
-                                    "area" : "Graph Neural Network"
+                                    "area" : "Graph Neural Networks"
                                 }
                             ],
                             "email" : "sskim0126@kookmin.ac.kr",
@@ -209,7 +212,7 @@
                             "description_type": "Research Areas",
                             "description":[
                                 {
-                                    "area" : "Generative Models"
+                                    "area" : "Generative Adversarial Networks"
                                 },
                                 {
                                     "area" : "Style Transfer"
