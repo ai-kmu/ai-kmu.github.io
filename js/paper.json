@@ -15,7 +15,30 @@
             "subcategory": "Journal",
             "papers":
             [
-
+                {
+                    "paper": "BIMO: Bootstrap Inter-Intra Modality at Once Unsupervised Learning for Time Series",
+                    "name": "Seongsil Heo, Jaekoo Lee",
+                    "pub": "under review.",
+                    "link": "",
+                    "originalcode": "",
+                    "domainbedcode":""
+                },
+                {
+                    "paper": "Temporal Fusion Time-Series Contrastive Learning for Human Activity Recognition",
+                    "name": "Inkyung Kim, Juwan Lee, Jaekoo Lee",
+                    "pub": "under review.",
+                    "link": "",
+                    "originalcode": "",
+                    "domainbedcode":""
+                },
+                {
+                    "paper": "Enhancing Object Detection using Super-Resolution",
+                    "name": "Daehee Kim, Sungmin Lee (SKT), Jaekoo Lee",
+                    "pub": "under review.",
+                    "link": "",
+                    "originalcode": "",
+                    "domainbedcode": ""
+                }
             ]
         },
         {
@@ -156,22 +179,6 @@
                         "link": "https://www.icpr2022.com/",
                         "originalcode": "https://github.com/ai-kmu/Fall_Detection_using_multihorizon_forecasting",
                         "domainbedcode":""
-                    },
-                    {
-                        "paper": "BIMO: Bootstrap Inter-Intra Modality at Once Unsupervised Learning for Time Series",
-                        "name": "Seongsil Heo, Jaekoo Lee",
-                        "pub": "ACM International Conference on Information and Knowledge Management(CIKM), 2022. under review.",
-                        "link": "",
-                        "originalcode": "",
-                        "domainbedcode":""
-                    },
-                    {
-                        "paper": "Temporal Fusion Time-Series Contrastive Learning for Human Activity Recognition",
-                        "name": "Inkyung Kim, Juwan Lee, Jaekoo Lee",
-                        "pub": "ACM International Conference on Information and Knowledge Management(CIKM), 2022. under review.",
-                        "link": "",
-                        "originalcode": "",
-                        "domainbedcode":""
                     }
                 ]
             },
@@ -185,14 +192,6 @@
                         "name": "Kyungsik Seo, Jaekoo Lee, Song Noh",
                         "pub": "Information and Communications Technology(ICT) Express Journal, September 2022.",
                         "link": "https://www.sciencedirect.com/science/article/pii/S240595952200114X?via%3Dihub",
-                        "originalcode": "",
-                        "domainbedcode": ""
-                    },
-                    {
-                        "paper": "Enhancing Object Detection using Super-Resolution",
-                        "name": "Daehee Kim, Sungmin Lee (SKT), Jaekoo Lee",
-                        "pub": "IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI) under review",
-                        "link": "",
                         "originalcode": "",
                         "domainbedcode": ""
                     }
