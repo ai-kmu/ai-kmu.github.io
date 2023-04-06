@@ -55,7 +55,7 @@
                                     "area" : "Knowledge Distillation"
                                 },
                                 {
-                                    "area" : "Trajectory prediction"
+                                    "area" : "Trajectory Prediction"
                                 }
                             ],
                             "email" : "mh9716@kookmin.ac.kr",
@@ -159,7 +159,7 @@
                             "intern" : ""
                         },
                         {
-                            "img_link" : "assets/img/people/person.png",
+                            "img_link" : "assets/img/people/minjun_black.png",
                             "name" : "Minjun Kang",
                             "description_type": "Research Areas",
                             "description":[
@@ -175,7 +175,7 @@
                             "intern" : ""
                         },
                         {
-                            "img_link" : "assets/img/people/person.png",
+                            "img_link" : "assets/img/people/sungsik_black.png",
                             "name" : "Sungsik Kim",
                             "description_type": "Research Areas",
                             "description":[
@@ -191,7 +191,7 @@
                             "intern" : ""
                         },
                         {
-                            "img_link" : "assets/img/people/person.png",
+                            "img_link" : "assets/img/people/seungheon_black.png",
                             "name" : "Seungheon Song",
                             "description_type": "Research Areas",
                             "description":[
@@ -207,7 +207,7 @@
                             "intern" : ""
                         },
                         {
-                            "img_link" : "assets/img/people/person.png",
+                            "img_link" : "assets/img/people/jaewoong_black.png",
                             "name" : "Jaewoong Choi",
                             "description_type": "Research Areas",
                             "description":[
@@ -381,6 +381,19 @@
                             ],
                             "email" : "archun39@kookmin.ac.kr",
                             "github_link" : "https://github.com/archun39",
+                            "intern" : ""
+                        },
+                        {
+                            "img_link" : "assets/img/people/person.png",
+                            "name" : "Jangwoon Park",
+                            "description_type": "Research Areas",
+                            "description":[
+                                {
+                                    "area" : ""
+                                }
+                            ],
+                            "email" : "jwoon0906@kookmin.ac.kr",
+                            "github_link" : "https://github.com/jwoon0906",
                             "intern" : ""
                         }
                     ]

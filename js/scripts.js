@@ -52,6 +52,10 @@
                         html_.push('<h2 class="section-heading text-uppercase">People</h2>');
                         html_.push('<br><h3 class="section-subheading text-muted">' + data_.card[i].subcard[j].position + '</h3></div><hr>');
                         html_.push('<div class="card mb-3" style="max-width: 100%;"><div class="row g-0">');
+                    }
+                    else if (data_.card[i].maintype === "staff") { // 선생님 카드
+                        html_.push('<br><h3 class="section-subheading text-muted">' + data_.card[i].subcard[j].position + '</h3></div><hr>');
+                        html_.push('<div class="row">');
                     } 
                     else if (data_.card[i].maintype === "student") { // 학생
                         html_.push('<br><h3 class="section-subheading text-muted">' + data_.card[i].subcard[j].position + '</h3></div><hr>');
@@ -75,7 +79,8 @@
                         else if (data_.card[i].maintype === "student") { //학생 카드 처리
                             html_.push('<div class="cm col-lg-3 col-md-4 mb-6">');
                             html_.push('<div class="card h-100">');
-
+                            
+                             // image size : 500 x 451
                             if (data_.card[i].subcard[j].contents[k].img_link !== "") { // 사진 필요한 경우
                                 html_.push('<img class="card-img-top imgchange" src="' + data_.card[i].subcard[j].contents[k].img_link + '" alt="">')
                             }
