@@ -16,7 +16,6 @@
                     html.push('<div class="to">' + '<strong>' + data[i].categories[j].category + '</strong>' + ' (' + data[i].categories[j].subcategory + ')</div>');
                     html.push('<div class="pub_content"><br/><p>');
                     for (let z = 0; z < data[i].categories[j].papers.length; z++) {
-
                         html.push('<span class="paper-subject">' + data[i].categories[j].papers[z].paper + '</span><br>');
                         html.push(data[i].categories[j].papers[z].name);
                         html.push(', ' + data[i].categories[j].papers[z].pub + '<br>');
@@ -45,26 +44,28 @@
         .then(data_ => {
             let html_ = []
             console.log(data_.card[1].subcard[2].position);
-            for (let i = 0; i < data_.card.length; i++) { //메인카드 : 교수님 학생
-                for (let j = 0; j < data_.card[i].subcard.length; j++) { //서브카드 :(교수님) (석사, 학부연구생, 졸업생)
+            for (let i = 0; i < data_.card.length; i++) { //메인카드 : 교수님 행정선생님 학생
+                for (let j = 0; j < data_.card[i].subcard.length; j++) { //서브카드 :(교수님), (행정선생님), (석사, 학부연구생, 졸업생)
                     html_.push('<div class="container"><div class="text-center">');
                     if (data_.card[i].maintype === "professer") { // 교수님 카드
-                        html_.push('<h2 class="section-heading text-uppercase">People</h2>');
+                        html_.push('<h2 class="section-heading text-uppercase">people</h2>');
                         html_.push('<br><h3 class="section-subheading text-muted">' + data_.card[i].subcard[j].position + '</h3></div><hr>');
                         html_.push('<div class="card mb-3" style="max-width: 100%;"><div class="row g-0">');
                     }
-                    else if (data_.card[i].maintype === "staff") { // 선생님 카드
-                        html_.push('<br><h3 class="section-subheading text-muted">' + data_.card[i].subcard[j].position + '</h3></div><hr>');
-                        html_.push('<div class="row">');
-                    } 
-                    else if (data_.card[i].maintype === "student") { // 학생
-                        html_.push('<br><h3 class="section-subheading text-muted">' + data_.card[i].subcard[j].position + '</h3></div><hr>');
-                        html_.push('<div class="row">');
+                    else if (data_.card[i].maintype === "staff") { // 행정 선생님 카드
+                        if (data_.card[i].subcard[j].position == "Administrative Staff") {
+                            html_.push('<br><h3 class="section-subheading text-muted">' + data_.card[i].subcard[j].position + '</h3></div><hr>');
+                            html_.push('<div class="row">'); // row 방향으로 쌓음
+                        }
+                    }
+                    else if (data_.card[i].maintype === "student") { // 학생 카드
+                        html_.push('<br><h3 class="section-subheading text-muted">' + data_.card[i].subcard[j].position + '</h3></div><hr>'); // 카드 타입 (석사, 학부연구생, 졸업생)
+                        html_.push('<div class="row">'); // row 방향으로 쌓음
                     }
                     for (let k = 0; k < data_.card[i].subcard[j].contents.length; k++) {
                         if (data_.card[i].subcard[j].position === "Principal Investigator") { // 교수님 카드 처리
                             html_.push('<div class="col-md-4">');
-                            html_.push('<img  src="' + data_.card[i].subcard[j].contents[k].img_link + '" height="100%" width="100%"></div>');
+                            html_.push('<img src="' + data_.card[i].subcard[j].contents[k].img_link + '" height="100%" width="100%"></div>');
                             html_.push('<div class="col-md-8"><div class="card-body"><br><br>');
                             html_.push('<h2 class="card-title">' + data_.card[i].subcard[j].contents[k].name + '</h2><hr>')
                             html_.push('<p class="card-text">' + data_.card[i].subcard[j].contents[k].rank + '<br>' + data_.card[i].subcard[j].contents[k].department + '<br>');
@@ -74,7 +75,24 @@
                             html_.push(data_.card[i].subcard[j].contents[k].ms + ' <br/><br/>');
                             html_.push('<strong>Experience</strong><br/>');
                             html_.push(data_.card[i].subcard[j].contents[k].experience_1 + '<br/>' + data_.card[i].subcard[j].contents[k].experience_2 + '<br/>');
-                            html_.push('</p> </div>')
+                            html_.push('</p> </div>');
+                        }
+                        else if (data_.card[i].subcard[j].position === "Administrative Staff") { //행정 선생님 카드 처리
+                            // html_.push('<div class="cm col-lg-6 col-md-4 mb-6">');
+                            html_.push('<div class="col-md-3">');
+                            html_.push('<div class="card h-100">');
+                            html_.push('<img class="card-img-top imgchange" src="' + data_.card[i].subcard[j].contents[k].img_link + '" alt="">')
+                            html_.push('<div class="card-body"> <h3 class="card-title">' + data_.card[i].subcard[j].contents[k].name + '</h3><hr>')
+                            html_.push('<p class="card-text">')
+                            // html_.push('<h2 class="card-title">' + data_.card[i].subcard[j].contents[k].name + '</h2><hr>');
+                            // html_.push('<strong><p class="card-title">' + data_.card[i].subcard[j].contents[k].rank + '</h2><br></strong>');
+                            // html_.push('<strong>E-mail</strong><br/>');
+                            html_.push(data_.card[i].subcard[j].contents[k].email + '<br>');
+                            // html_.push('<strong>Number</strong><br/>');
+                            html_.push(data_.card[i].subcard[j].contents[k].number + '<br>');  
+                            // html_.push('<strong>Place</strong><br/>');
+                            html_.push(data_.card[i].subcard[j].contents[k].place + '<br>');
+                            html_.push('</p> </div>');
                         }
                         else if (data_.card[i].maintype === "student") { //학생 카드 처리
                             html_.push('<div class="cm col-lg-3 col-md-4 mb-6">');
@@ -123,8 +141,14 @@
                     if (data_.card[i].maintype === "professer") {
                         html_.push('</div></div></div>');
                     }
+                    if (data_.card[i].maintype === "staff") {
+                        html_.push('</div></div></div>');
+                    }
                 }
                 if (data_.card[i].maintype === "professer") {
+                    html_.push('</div>');
+                }
+                if (data_.card[i].maintype === "staff") {
                     html_.push('</div>');
                 }
             }

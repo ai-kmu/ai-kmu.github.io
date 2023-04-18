@@ -47,3 +47,36 @@
     $(window).scroll(navbarCollapse);
 
 })(jQuery);
+
+/*
+{
+    "maintype": "staff",
+    "subcard": [
+        {
+            "position" : "Administrative Staff",
+            "contents" : [
+                {
+                    "rank": "Administrative Staff",
+                    "img_link" : "assets/img/people/seollan.png",
+                    "name" : "Lan Seol",
+                    "number" : "+82-2-910-4646",
+                    "email" : "sr0213@kookmin.ac.kr",
+                    "place" : "Rm. 609, Bldg. Future (P-Lab)"
+                }
+            ]
+        },
+        {
+            "position" : "aaaa",
+            "contents" : [
+            ]
+        
+        },
+
+        {
+            "position" : "",
+            "contents" : [                 
+            ]                   
+        }
+    ]
+},     
+*/
