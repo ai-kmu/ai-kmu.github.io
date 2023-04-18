@@ -62,7 +62,8 @@
             "papers":
             [                    
                 {
-                    "paper": "객체 분할 정보를 활용한 선화 생성 모델의 성능 개선",
+                    "paper": "[BEST PAPER] 객체 분할 정보를 활용한 선화 생성 모델의 성능 개선",
+                    
                     "name": "Jaewoong Choi, Jungmin Ha, Hyejin Lee, Jaekoo Lee",
                     "pub": "Korea Institute Of Communication Sciences(KICS), Feburary 2023.",
                     "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227272",
