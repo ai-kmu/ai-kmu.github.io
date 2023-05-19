@@ -72,7 +72,7 @@
                 {
                     "paper": "다변량 시계열 이상 탐지 과업에서 비지도 학습 모델의 성능 비교",
                     "name": "Juwan Lim, Jaekoo Lee",
-                    "pub": " Journal of The Korea Institute of Information Security and Cryptology, Feburary 2023.",
+                    "pub": " Journal of The Korea Institute of Information Security and Cryptology, February 2023.",
                     "link": "https://public.thinkonweb.com/journals/jkiisc/digital-library/38367",
                     "originalcode": "",
                     "domainbedcode":""
@@ -88,7 +88,7 @@
                     "paper": "[BEST PAPER] 객체 분할 정보를 활용한 선화 생성 모델의 성능 개선",
                     
                     "name": "Jaewoong Choi, Jungmin Ha, Hyejin Lee, Jaekoo Lee",
-                    "pub": "Korea Institute Of Communication Sciences(KICS), Feburary 2023.",
+                    "pub": "Korea Institute Of Communication Sciences(KICS), February 2023.",
                     "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227272",
                     "originalcode": "",
                     "domainbedcode":""
@@ -96,7 +96,7 @@
                 {
                     "paper": "이산 푸리에 변환을 이용한 패치 단위의 위치 임베딩 적용",
                     "name": "Seungheon Song, Jaekoo Lee",
-                    "pub": "Korea Institute Of Communication Sciences(KICS), Feburary 2023.",
+                    "pub": "Korea Institute Of Communication Sciences(KICS), February 2023.",
                     "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227270",
                     "originalcode": "",
                     "domainbedcode":""
@@ -104,7 +104,7 @@
                 {
                     "paper": "시뮬레이션과 실제 환경 사이의 연결: 자율 주행을 위한 객체 탐지 성능 향상",
                     "name": "Sungsik Kim, Hyunae Cho, Myunghak Lee, Jaekoo Lee",
-                    "pub": "Korea Institute Of Communication Sciences(KICS), Feburary 2023.",
+                    "pub": "Korea Institute Of Communication Sciences(KICS), February 2023.",
                     "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227250",
                     "originalcode": "",
                     "domainbedcode":""
@@ -112,7 +112,7 @@
                 {
                     "paper": "적응적 재보정을 통한 표 데이터에 특화된 TabNet 최적화",
                     "name": "Minjun Kang, Juwan Lim, Jaekoo Lee",
-                    "pub": "Korea Institute Of Communication Sciences(KICS), Feburary 2023.",
+                    "pub": "Korea Institute Of Communication Sciences(KICS), February 2023.",
                     "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227911",
                     "originalcode": "",
                     "domainbedcode":""
@@ -120,7 +120,7 @@
                 {
                     "paper": "경량화된 초해상화 방법을 통한 NeRF 렌더링 효율 개선",
                     "name": "Jaeseok Lee, Junghyeon Seo, Jaekoo Lee ",
-                    "pub": "Korea Institute Of Communication Sciences(KICS), Feburary 2023.",
+                    "pub": "Korea Institute Of Communication Sciences(KICS), February 2023.",
                     "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227907",
                     "originalcode": "",
                     "domainbedcode":""
@@ -128,7 +128,7 @@
                 {
                     "paper": "X-ray 영상 데이터를 통한 자기 지도 학습 기반 객체 탐지의 영역 간극에 따른 성능차이 검증",
                     "name": "Euihyun Yoon, Jaekoo Lee",
-                    "pub": "Korea Institute Of Communication Sciences(KICS), Feburary 2023.",
+                    "pub": "Korea Institute Of Communication Sciences(KICS), February 2023.",
                     "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227920",
                     "originalcode": "",
                     "domainbedcode":""
@@ -136,7 +136,7 @@
                 {
                     "paper": "분자 구조 분석을 위한 GNN에 설명 가능한 인공지능 적용",
                     "name": "Wooseong Cho, Jaekoo Lee",
-                    "pub": "Korea Institute Of Communication Sciences(KICS), Feburary 2023.",
+                    "pub": "Korea Institute Of Communication Sciences(KICS), February 2023.",
                     "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227908",
                     "originalcode": "",
                     "domainbedcode":""
@@ -144,7 +144,7 @@
                 {
                     "paper": "그래프를 활용한 차선 인식 성능 개선",
                     "name": "Hyunjong Lee, Jaekoo Lee",
-                    "pub": "Korea Institute Of Communication Sciences(KICS), Feburary 2023.",
+                    "pub": "Korea Institute Of Communication Sciences(KICS), February 2023.",
                     "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227919",
                     "originalcode": "",
                     "domainbedcode":""
@@ -152,7 +152,7 @@
                 {
                     "paper": "다변량 시계열의 명시적 집중 학습을 통한 이상 탐지 효율성 향상",
                     "name": "Juwan Lim, Song Noh, Jaekoo Lee",
-                    "pub": "Korea Institute Of Communication Sciences(KICS), Feburary 2023.",
+                    "pub": "Korea Institute Of Communication Sciences(KICS), February 2023.",
                     "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227910",
                     "originalcode": "",
                     "domainbedcode":""
@@ -160,7 +160,7 @@
                 {
                     "paper": "지식 증류를 이용한 경로 예측 과업의 영역 일반화",
                     "name": "Myunghak Lee, Jaekoo Lee",
-                    "pub": "Korea Institute Of Communication Sciences(KICS), Feburary 2023.",
+                    "pub": "Korea Institute Of Communication Sciences(KICS), February 2023.",
                     "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227900",
                     "originalcode": "",
                     "domainbedcode":""
@@ -168,7 +168,7 @@
                 {
                     "paper": "Prototype Augmentation과 Label Augmentation을 이용한 MLP-Mixer의 연속 학습 성능 개선",
                     "name": "Jungmin Eom, Jaekoo Lee",
-                    "pub": "Korea Institute Of Communication Sciences(KICS), Feburary 2023.",
+                    "pub": "Korea Institute Of Communication Sciences(KICS), February 2023.",
                     "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227909",
                     "originalcode": "",
                     "domainbedcode":""
@@ -191,7 +191,7 @@
                     {
                         "paper": "Bridging the Domain Gap towards Generalization in Automatic Colorization",
                         "name": "Hyejin Lee, Daehee Kim, Daeun Lee, Jinkyu Kim, Jaekoo Lee",
-                        "pub": "European Conference on Computer Vision(ECCV), 2022",
+                        "pub": "European Conference on Computer Vision(ECCV), October 2022",
                         "link": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136770530.pdf",
                         "originalcode": "https://github.com/ai-kmu/DG-Colorization",
                         "domainbedcode":""
@@ -237,7 +237,7 @@
                     {
                         "paper": "Temporal Fusion Transformers와 심층 학습 방법을 사용한 다층 수평 시계열 데이터 분석",
                         "name": "Inkyung Kim, Daehee Kim, Jaekoo Lee",
-                        "pub": "KIPS Transactions on Software and Data Engineering(KTSDE), Feburary 2022",
+                        "pub": "KIPS Transactions on Software and Data Engineering(KTSDE), February 2022",
                         "link": "http://ktsde.kips.or.kr/digital-library/25327",
                         "originalcode": "",
                         "domainbedcode":""
@@ -368,7 +368,7 @@
                     {
                         "paper": "Inter-domain Curriculum Learning for domain generalization",
                         "name": "Daehee Kim, Jinkyu Kim (Korea univ.), Jaekoo Lee",
-                        "pub": "Information and Communications Technology(ICT) Express Journal",
+                        "pub": "Information and Communications Technology(ICT) Express Journal, November 2021.",
                         "link": "https://www.sciencedirect.com/science/article/pii/S2405959521001648?via%3Dihub",
                         "originalcode": "https://github.com/ai-kmu/IDCL?organization=ai-kmu&organization=ai-kmu",
                         "domainbedcode": ""
