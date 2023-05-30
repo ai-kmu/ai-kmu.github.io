@@ -10,7 +10,7 @@
                 {
                     "paper": "Distillation for High-Quality Knowledge Extraction via Explainable Oracle Approach",
                     "name": "Myunghak Lee, Wooseong Cho, Sungsik Kim, Jinkyu kim, Jaekoo Lee",
-                    "pub": "The British Machine Vision Conference (BMVC), 2023, under review.",
+                    "pub": "under review.",
                     "link": "",
                     "originalcode": "",
                     "domainbedcode":""
@@ -18,7 +18,7 @@
                 {
                     "paper": "Alleviating Catastrophic Forgetting with Privacy Preserving Distributed Learning",
                     "name": "Jungmin Eom*, Minjun Kang*, Jungmin Ha, Jinkyu Kim, Jaekoo Lee",
-                    "pub": "European Conference on Artificial Intelligence (ECAI), 2023, under review. (* equal contribution)",
+                    "pub": "under review. (* equal contribution)",
                     "link": "",
                     "originalcode": "",
                     "domainbedcode":""
@@ -26,7 +26,7 @@
                 {
                     "paper": "Leveraging Locality Inductive Bias of Locality for Automated Pigmented Skin Lesions Diagnosis",
                     "name": "Jungmin Ha, Hyunjong Lee, Jinkyu Kim, Jaekoo Lee",
-                    "pub": "Medical Image Computing and Computer Assisted Intervention (MICCAI), 2023, under review.",
+                    "pub": "under review.",
                     "link": "",
                     "originalcode": "",
                     "domainbedcode":""
