@@ -480,6 +480,19 @@
                             "email" : "",
                             "github_link" : "",
                             "intern" : ""
+                        },
+                        {
+                            "img_link" : "",
+                            "name" : "Youngjun Yoo",
+                            "description_type": "current",
+                            "description":[
+                                {
+                                    "area" : "Hanwha Systems"
+                                }
+                            ],
+                            "email" : "",
+                            "github_link" : "",
+                            "intern" : ""
                         }
                     ]                   
                 }
