@@ -56,7 +56,7 @@
                 },
                 {
                     "paper": "Enhancing Object Detection using Super-Resolution",
-                    "name": "Daehee Kim, Sungmin Lee (SKT), Jaekoo Lee",
+                    "name": "Daehee Kim, Sungmin Lee, Jaekoo Lee",
                     "pub": "under review.",
                     "link": "",
                     "originalcode": "",
@@ -352,7 +352,7 @@
                 [
                     {
                         "paper": "SelfReg: Self-supervised Contrastive Regularization for Domain Generalization",
-                        "name": "Daehee Kim, Seunghyun Park (Naver Clova AI), Jinkyu Kim (Korea univ.), Jaekoo Lee",
+                        "name": "Daehee Kim, Seunghyun Park, Jinkyu Kim, Jaekoo Lee",
                         "pub": "International Conference on Computer Vision(ICCV), October 2021.",
                         "link": "https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_SelfReg_Self-Supervised_Contrastive_Regularization_for_Domain_Generalization_ICCV_2021_paper.pdf",
                         "originalcode": "https://github.com/ai-kmu/SelfReg",
@@ -367,7 +367,7 @@
                 [
                     {
                         "paper": "Inter-domain Curriculum Learning for domain generalization",
-                        "name": "Daehee Kim, Jinkyu Kim (Korea univ.), Jaekoo Lee",
+                        "name": "Daehee Kim, Jinkyu Kim, Jaekoo Lee",
                         "pub": "Information and Communications Technology(ICT) Express Journal, November 2021.",
                         "link": "https://www.sciencedirect.com/science/article/pii/S2405959521001648?via%3Dihub",
                         "originalcode": "https://github.com/ai-kmu/IDCL?organization=ai-kmu&organization=ai-kmu",
