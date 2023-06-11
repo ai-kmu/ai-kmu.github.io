@@ -398,19 +398,6 @@
                         },
                         {
                             "img_link" : "assets/img/people/person.png",
-                            "name" : "Seonghyun Kim",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : ""
-                                }
-                            ],
-                            "email" : "archun39@kookmin.ac.kr",
-                            "github_link" : "https://github.com/archun39",
-                            "intern" : ""
-                        },
-                        {
-                            "img_link" : "assets/img/people/person.png",
                             "name" : "Jangwoon Park",
                             "description_type": "Research Areas",
                             "description":[
