@@ -255,32 +255,6 @@
                     "contents" : [
                         {
                             "img_link" : "assets/img/people/person.png",
-                            "name" : "Junghyeon Seo",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : ""
-                                }
-                            ],
-                            "email" : "jh04270312@kookmin.ac.kr",
-                            "github_link" : "https://github.com/JungHyeon0427 ",
-                            "intern" : ""
-                        },
-                        {
-                            "img_link" : "assets/img/people/person.png",
-                            "name" : "Hyunae Cho",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : ""
-                                }
-                            ],
-                            "email" : "chcho0819@kookmin.ac.kr",
-                            "github_link" : "https://github.com/hacho08",
-                            "intern" : ""
-                        },
-                        {
-                            "img_link" : "assets/img/people/person.png",
                             "name" : "Yunseok Kang",
                             "description_type": "Research Areas",
                             "description":[
