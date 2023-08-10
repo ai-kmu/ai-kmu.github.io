@@ -441,18 +441,18 @@
                             "intern" : ""
                         },
                          {
-                            "img_link" : "assets/img/people/myunghak_black.png",
+                            "img_link" : "",
                             "name" : "Myunghak Lee",
                             "description_type": "current",
                             "description":[
                                 {
-                                    "area" : ""
+                                    "area" : " "
                                 }
                             ],
                             "email" : "",
                             "github_link" : "",
                             "intern" : ""
-                        },
+                        }
                     ]                   
                 }
             ]
