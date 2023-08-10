@@ -1,3 +1,4 @@
+
 {
     "card" :[
         {
@@ -70,22 +71,6 @@
                             ],
                             "email" : "sozzso@kookmin.ac.kr",
                             "github_link" : "https://github.com/jmin0530",
-                            "intern" : ""
-                        },
-                        {
-                            "img_link" : "assets/img/people/myunghak_black.png",
-                            "name" : "Myunghak Lee",
-                            "description_type": "Research Areas",
-                            "description":[
-                                {
-                                    "area" : "Knowledge Distillation"
-                                },
-                                {
-                                    "area" : "Trajectory Prediction"
-                                }
-                            ],
-                            "email" : "mh9716@kookmin.ac.kr",
-                            "github_link" : "https://github.com/myunghakLee",
                             "intern" : ""
                         },
                         {
@@ -454,7 +439,20 @@
                             "email" : "",
                             "github_link" : "",
                             "intern" : ""
-                        }
+                        },
+                         {
+                            "img_link" : "assets/img/people/myunghak_black.png",
+                            "name" : "Myunghak Lee",
+                            "description_type": "current",
+                            "description":[
+                                {
+                                    "area" : ""
+                                }
+                            ],
+                            "email" : "",
+                            "github_link" : "",
+                            "intern" : ""
+                        },
                     ]                   
                 }
             ]
