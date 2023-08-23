@@ -1,9 +1,9 @@
 function initMap() {
-    var k_univ = { lat: 37.61102236349923 ,lng: 126.99731035581803 };
+    var k_univ = { lat: 37.60986651821443, lng: 126.99727053599317 };
     var map = new google.maps.Map(
         document.getElementById('map'), {
-            zoom: 15,
-            center: k_univ
+            zoom: 17,
+            center: { lat: 37.61056928891616, lng: 126.99723087041835 }
         });
     const marker = new google.maps.Marker({
         position: k_univ,
