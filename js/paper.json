@@ -89,7 +89,7 @@
                 {
                     "paper": "다변량 시계열 이상 탐지 과업에서 비지도 학습 모델의 성능 비교",
                     "name": "Juwan Lim, Jaekoo Lee",
-                    "pub": " Journal of The Korea Institute of Information Security and Cryptology, February 2023.",
+                    "pub": "Journal of The Korea Institute of Information Security and Cryptology, February 2023.",
                     "link": "https://public.thinkonweb.com/journals/jkiisc/digital-library/38367",
                     "originalcode": "",
                     "domainbedcode":""
@@ -143,7 +143,7 @@
                 },
                 {
                     "paper": "경량화된 초해상화 방법을 통한 NeRF 렌더링 효율 개선",
-                    "name": "Jaeseok Lee, Junghyeon Seo, Jaekoo Lee ",
+                    "name": "Jaeseok Lee, Junghyeon Seo, Jaekoo Lee",
                     "pub": "Korea Institute Of Communication Sciences(KICS), February 2023.",
                     "link": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227907",
                     "originalcode": "",
@@ -197,8 +197,6 @@
                     "originalcode": "",
                     "domainbedcode":""
                 }
-
-                
             ]
         }
     ]
