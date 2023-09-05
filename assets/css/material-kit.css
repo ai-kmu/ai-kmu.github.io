@@ -135,21 +135,6 @@
     }
 }
 
-.jb-a {
-  width: 400px;
-  margin: 0px auto;
-  position: relative
-}
-.jb-c {
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  display: none;
-}
-.jb-a:hover .jb-c {
-  display: block;
-}
-
 .card-a{
   margin: 0px auto;
   position: relative;
