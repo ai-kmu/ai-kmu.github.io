@@ -135,6 +135,40 @@
     }
 }
 
+.jb-a {
+  width: 400px;
+  margin: 0px auto;
+  position: relative
+}
+.jb-c {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: none;
+}
+.jb-a:hover .jb-c {
+  display: block;
+}
+
+.card-a{
+  margin: 0px auto;
+  position: relative;
+}
+.card-b{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  opacity: 0;
+  transition: opacity 0.5s linear;
+  border-radius: 13px 13px 0 0;
+}
+.card-c{
+  border-radius: 13px 13px 0 0;
+}
+.card-a:hover .card-b{
+  opacity: 1;
+}
+
 *,
 *::before,
 *::after {
